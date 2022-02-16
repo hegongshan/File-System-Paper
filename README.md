@@ -28,13 +28,19 @@
 
 [1998] ext3: **Journaling the Linux ext2fs Filesystem**. [[PDF](https://pdos.csail.mit.edu/6.828/2020/readings/journal-design.pdf)]
 
+#### Multicore/Manycore Scalability
+
+[2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)]
+
+[2017 SOSP] ScaleFS: **Scaling a File System to Many Cores Using an Operation Log**. [[PDF](https://pdos.csail.mit.edu/papers/scalefs.pdf)]
+
 ### User-Space File System
 
 > FUSE: **F**ilesystem in **USE**rspace, https://github.com/libfuse/libfuse
 
 [2004 ATC] **Wayback: A User-level Versioning File System for Linux**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/usenix04/tech/freenix/cornell/cornell.pdf)]
 
-[2015 HotStorage] **Terra Incognita: On the Practicality of User-Space File Systems**. [[PDF]](https://www.usenix.org/system/files/conference/hotstorage15/hotstorage15-tarasov.pdf) [[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage15_slides_tarasov.pdf)
+[2015 HotStorage] **Terra Incognita: On the Practicality of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/hotstorage15/hotstorage15-tarasov.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage15_slides_tarasov.pdf)]
 
 [2017 FAST] **To FUSE or Not to FUSE: Performance of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-vangoor.pdf)]
 
