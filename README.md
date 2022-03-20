@@ -59,6 +59,8 @@
 
 [2017 FAST] **To FUSE or Not to FUSE: Performance of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-vangoor.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_vangoor.pdf)]
 
+[2019 TOS] **Performance and Resource Utilization of FUSE User-Space File Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3310148)]
+
 [2019 ATC] ExtFUSE: **Extension Framework for File Systems in User space**. [[PDF](https://www.usenix.org/system/files/atc19-bijlani.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_bijlani.pdf)]
 
 [2021 ATC] **XFUSE: An Infrastructure for Running Filesystem Services in User Space**. [[PDF](https://www.usenix.org/system/files/atc21-huai.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_huai.pdf)]
