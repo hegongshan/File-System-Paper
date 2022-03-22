@@ -37,6 +37,10 @@
 
 [1998] ext3: **Journaling the Linux ext2fs Filesystem**. [[PDF](https://pdos.csail.mit.edu/6.828/2020/readings/journal-design.pdf)]
 
+[2013 FAST] **A Study of Linux File System Evolution**. [[PDF](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf)]
+
+[2013 TOS] **BTRFS: The Linux B-Tree Filesystem**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2501620.2501623)]
+
 #### Multicore/Manycore Scalability
 
 [2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)]
@@ -53,7 +57,7 @@
 
 [2010 SAC] **Performance and Extension of User Space File Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1774088.1774130)]
 
-[2011 Eurosys] **Refuse to crash with Re-FUSE**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1966445.1966453)]
+[2011 EuroSys] **Refuse to crash with Re-FUSE**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1966445.1966453)]
 
 [2015 HotStorage] **Terra Incognita: On the Practicality of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/hotstorage15/hotstorage15-tarasov.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage15_slides_tarasov.pdf)]
 
