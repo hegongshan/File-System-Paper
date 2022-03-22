@@ -35,6 +35,8 @@
 
 [1995] **Design and Implementation of the Second Extended Filesystem**. [[PDF](http://e2fsprogs.sourceforge.net/ext2intro.html)]
 
+[1996 ATC] **Scalability in the XFS File System**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/sd96/full_papers/sweeney.ps)]
+
 [1998] ext3: **Journaling the Linux ext2fs Filesystem**. [[PDF](https://pdos.csail.mit.edu/6.828/2020/readings/journal-design.pdf)]
 
 [2013 FAST] **A Study of Linux File System Evolution**. [[PDF](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf)]
