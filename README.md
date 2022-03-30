@@ -20,10 +20,9 @@
   * [2.3 High Performance Computing](#high-performance-computing-hpc)
   
     * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
-  
 * [3.Metadata Management Optimization](#metadata-management-optimization)
-
 * [4.Surveys](#surveys)
+* [5.Analysis](#analysis)
 
 ## Local File System
 
@@ -156,3 +155,7 @@
 [2015] **Analysis of Six Distributed File Systems**. [[PDF](https://hal.inria.fr/hal-00789086/file/a_survey_of_dfs.pdf)]
 
 [2016 ICCCA] **Evolution and Analysis of Distributed File Systems in Cloud Storage: Analytical Survey**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7813828)]
+
+### Analysis
+
+[2020 ATC] **A Comparison of File System Workloads**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/general/full_papers/roselli/roselli.pdf)]
