@@ -30,13 +30,15 @@
 
 [Linux File System](https://www.kernel.org/doc/html/latest/filesystems)
 
-[1991 SOSP] **The Design and Implementation of a Log-Structured File System**. [[PDF](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)]
+[1991 SOSP] LFS: **The Design and Implementation of a Log-Structured File System**. [[PDF](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)]
 
 [1995] **Design and Implementation of the Second Extended Filesystem**. [[PDF](http://e2fsprogs.sourceforge.net/ext2intro.html)]
 
 [1996 ATC] **Scalability in the XFS File System**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/sd96/full_papers/sweeney.ps)]
 
 [1998] ext3: **Journaling the Linux ext2fs Filesystem**. [[PDF](https://pdos.csail.mit.edu/6.828/2020/readings/journal-design.pdf)]
+
+[2005 ATC] **Analysis and Evolution of Journaling File Systems**. [[PDF](https://www.usenix.org/legacy/events/usenix05/tech/general/full_papers/prabhakaran/prabhakaran.pdf)]
 
 [2013 FAST] **A Study of Linux File System Evolution**. [[PDF](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf)]
 
@@ -77,6 +79,8 @@
 [1985] **Design and Implementation of the Sun Network Filesystem**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=06C4017AA8BFD7230B528C0F94A21B1D?doi=10.1.1.14.473&rep=rep1&type=pdf)]
 
 [1987 SOSP & 1988 TOCS] AFS: **Scale and performance in a distributed file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/35037.35059)]
+
+[1993 SOSP & 1995 TOCS] **The Zebra Striped Network File System**. [[PDF](http://people.eecs.berkeley.edu/~prabal/resources/osprelim/HO93.pdf)] [[PhD. Thesis](https://www.researchgate.net/profile/John-Ousterhout/publication/220439180_The_Zebra_Striped_Network/links/53e296890cf275a5fdda2eca/The-Zebra-Striped-Network.pdf)]
 
 [2011 ATC] **TidyFS: A Simple and Small Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/atc11/tech/final_files/Fetterly.pdf)] [[Slides](https://www.usenix.org/legacy/events/atc11/tech/slides/fetterly.pdf)]
 
