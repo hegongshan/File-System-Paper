@@ -36,9 +36,11 @@
 
 [1996 ATC] **Scalability in the XFS File System**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/sd96/full_papers/sweeney.ps)]
 
-[1998] ext3: **Journaling the Linux ext2fs Filesystem**. [[PDF](https://pdos.csail.mit.edu/6.828/2020/readings/journal-design.pdf)]
+[1998 LinuxExpo] ext3: **Journaling the Linux ext2fs Filesystem**. [[PDF](https://pdos.csail.mit.edu/6.828/2020/readings/journal-design.pdf)]
 
 [2005 ATC] **Analysis and Evolution of Journaling File Systems**. [[PDF](https://www.usenix.org/legacy/events/usenix05/tech/general/full_papers/prabhakaran/prabhakaran.pdf)]
+
+[2006 SIGOPS Operating Systems Review] NILFS: **The Linux implementation of a log-structured file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1151374.1151375)]
 
 [2007] **The new ext4 filesystem: Current status and future plans**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.111.798&rep=rep1&type=pdf#page=21)]
 
@@ -82,7 +84,7 @@
 
 [1987 SOSP & 1988 TOCS] AFS: **Scale and performance in a distributed file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/35037.35059)]
 
-[1993 SOSP & 1995 TOCS] **The Zebra Striped Network File System**. [[PDF](http://people.eecs.berkeley.edu/~prabal/resources/osprelim/HO93.pdf)] [[PhD. Thesis](https://www.researchgate.net/profile/John-Ousterhout/publication/220439180_The_Zebra_Striped_Network/links/53e296890cf275a5fdda2eca/The-Zebra-Striped-Network.pdf)]
+[1993 SOSP & 1995 TOCS] **The Zebra Striped Network File System**. [[PDF](http://people.eecs.berkeley.edu/~prabal/resources/osprelim/HO93.pdf)] [[Ph.D. Thesis](https://www.researchgate.net/profile/John-Ousterhout/publication/220439180_The_Zebra_Striped_Network/links/53e296890cf275a5fdda2eca/The-Zebra-Striped-Network.pdf)]
 
 [2011 ATC] **TidyFS: A Simple and Small Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/atc11/tech/final_files/Fetterly.pdf)] [[Slides](https://www.usenix.org/legacy/events/atc11/tech/slides/fetterly.pdf)]
 
@@ -96,7 +98,7 @@
 
 [2007 SC] **RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters**. [[PDF](https://ceph.com/assets/pdfs/weil-rados-pdsw07.pdf)]
 
-[2007 Ph.D. thesis@UCSC] **Ceph: Reliable, Scalable, and High-Performance Distributed Storage**. [[PDF](https://ceph.com/assets/pdfs/weil-thesis.pdf)]
+[2007 Ph.D. Thesis@UCSC] **Ceph: Reliable, Scalable, and High-Performance Distributed Storage**. [[PDF](https://ceph.com/assets/pdfs/weil-thesis.pdf)]
 
 [2019 SOSP] **File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)]
 
