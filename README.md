@@ -23,6 +23,7 @@
 * [3.Metadata Management Optimization](#metadata-management-optimization)
 * [4.Surveys](#surveys)
 * [5.Analysis](#analysis)
+* [6.Object Storage](#object-storage)
 
 ## Local File System
 
@@ -167,3 +168,7 @@
 ### Analysis
 
 [2000 ATC] **A Comparison of File System Workloads**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/general/full_papers/roselli/roselli.pdf)]
+
+## Object Storage
+
+[2004 MSST] **OBFS: A File System for Object-based Storage Devices**. [[PDF](https://www.storageconference.us/2004/Papers/33-Wang-a.pdf)] [[Slides](https://www.storageconference.us/2004/Presentations/33r1.pdf)]
