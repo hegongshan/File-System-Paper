@@ -176,3 +176,5 @@
 [2004 MSST] **OBFS: A File System for Object-based Storage Devices**. [[PDF](https://www.storageconference.us/2004/Papers/33-Wang-a.pdf)] [[Slides](https://www.storageconference.us/2004/Presentations/33r1.pdf)]
 
 [2010 OSDI] **Finding a needle in Haystack: Facebook’s photo storage**. [[PDF](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)] [[Slides](https://www.usenix.org/legacy/events/osdi10/tech/slides/beaver.pdf)]
+
+[2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)]
