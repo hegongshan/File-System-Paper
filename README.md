@@ -172,3 +172,5 @@
 ## Object Storage
 
 [2004 MSST] **OBFS: A File System for Object-based Storage Devices**. [[PDF](https://www.storageconference.us/2004/Papers/33-Wang-a.pdf)] [[Slides](https://www.storageconference.us/2004/Presentations/33r1.pdf)]
+
+[2010 OSDI] **Finding a needle in Haystack: Facebook’s photo storage**. [[PDF](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)] [[Slides](https://www.usenix.org/legacy/events/osdi10/tech/slides/beaver.pdf)]
