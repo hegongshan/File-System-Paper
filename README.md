@@ -49,6 +49,8 @@
 
 [2013 TOS] **BTRFS: The Linux B-Tree Filesystem**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2501620.2501623)]
 
+[2015 FAST] **F2FS: A New File System for Flash Storage**. [[PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-lee.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast15_slides_lee.pdf)]
+
 #### Multicore/Manycore Scalability
 
 [2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)]
@@ -90,6 +92,8 @@
 [2011 ATC] **TidyFS: A Simple and Small Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/atc11/tech/final_files/Fetterly.pdf)] [[Slides](https://www.usenix.org/legacy/events/atc11/tech/slides/fetterly.pdf)]
 
 #### Ceph
+
+[2003 MSST] **Efficient Metadata Management in Large Distributed Storage Systems**. [[PDF](https://www.storageconference.us/2003/papers/36-Brandt-Efficient.pdf)] [[Slides](https://www.storageconference.us/2003/presentations/D09-Brandt.pdf)]
 
 [2004 SC] **Dynamic Metadata Management for Petabyte-scale File Systems**. [[PDF](https://ceph.com/assets/pdfs/weil-mds-sc04.pdf)]
 
@@ -151,6 +155,8 @@
 
 [2017 SC] **LocoFS: A Loosely-Coupled Metadata Service for Distributed File Systems**. [[PDF](http://storage.cs.tsinghua.edu.cn/papers/sc17-locofs.pdf/)]
 
+[2018 TPDS] **A Flattened Metadata Service for Distributed File Systems**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8370078)]
+
 [2022 FAST] **InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems**. [[PDF](https://www.usenix.org/system/files/fast22-lv.pdf)] [[Slides](https://www.usenix.org/system/files/fast22_slides_lv.pdf)]
 
 ### Surveys
@@ -165,6 +171,8 @@
 
 [2016 ICCCA] **Evolution and Analysis of Distributed File Systems in Cloud Storage: Analytical Survey**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7813828)]
 
+[2018 CSURS] **Scalable Metadata Management Techniques for Ultra-Large Distributed Storage Systems – A Systematic Review**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3212686)]
+
 ### Analysis
 
 [2000 ATC] **A Comparison of File System Workloads**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/general/full_papers/roselli/roselli.pdf)]
@@ -178,3 +186,4 @@
 [2010 OSDI] **Finding a needle in Haystack: Facebook’s photo storage**. [[PDF](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)] [[Slides](https://www.usenix.org/legacy/events/osdi10/tech/slides/beaver.pdf)]
 
 [2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)]
+
