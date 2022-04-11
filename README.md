@@ -121,8 +121,6 @@
 
 [2010 MSST] **The Hadoop Distributed File System**. [[PDF](https://www.storageconference.us/2010/Papers/MSST/Shvachko.pdf)]
 
-[2010 OSDI] **Finding a needle in Haystack: Facebook’s photo storage**. [[PDF](https://www.usenix.org/legacy/events/osdi10/tech/full_papers/Beaver.pdf)]
-
 [2021 FAST] **Facebook’s Tectonic Filesystem: Efficiency from Exascale**. [[PDF](https://www.usenix.org/system/files/fast21-pan.pdf)]
 
 ### High Performance Computing (HPC)
@@ -171,7 +169,7 @@
 
 [2016 ICCCA] **Evolution and Analysis of Distributed File Systems in Cloud Storage: Analytical Survey**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7813828)]
 
-[2018 CSURS] **Scalable Metadata Management Techniques for Ultra-Large Distributed Storage Systems – A Systematic Review**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3212686)]
+[2018 CSUR] **Scalable Metadata Management Techniques for Ultra-Large Distributed Storage Systems – A Systematic Review**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3212686)]
 
 ### Analysis
 
