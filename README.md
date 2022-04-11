@@ -59,6 +59,7 @@
 
 [2022 FAST] **ScaleXFS: Getting scalability of XFS back on the ring**. [[PDF](https://www.usenix.org/system/files/fast22-kim.pdf)]
 
+
 ### User-Space File System
 
 > FUSE: **F**ilesystem in **USE**rspace, https://github.com/libfuse/libfuse
@@ -78,6 +79,14 @@
 [2019 ATC] ExtFUSE: **Extension Framework for File Systems in User space**. [[PDF](https://www.usenix.org/system/files/atc19-bijlani.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_bijlani.pdf)]
 
 [2021 ATC] **XFUSE: An Infrastructure for Running Filesystem Services in User Space**. [[PDF](https://www.usenix.org/system/files/atc21-huai.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_huai.pdf)]
+
+### Crash Consistency
+
+[2012 FAST] **Consistency Without Ordering**. [[PDF](https://www.usenix.org/legacy/event/fast/tech/full_papers/Chidambaram.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/nofs-fast12-slides.pdf)] [[Codes](https://github.com/utsaslab/nofs)]
+
+[2013 SOSP] **Optimistic Crash Consistency**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13-slides.pdf)] [[Codes](https://github.com/utsaslab/optfs)]
+
+[2017 TOS] **Application Crash Consistency and Performance with CCFS**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/ccfs-tos17.pdf)]
 
 ## Distributed File System
 
