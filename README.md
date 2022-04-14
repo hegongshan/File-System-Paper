@@ -1,18 +1,29 @@
 # File System
 
 * [1.Local File System](#local-file-system)
-  
+
   * [1.1 Kernel File System](#kernel-file-system)
+
   * [1.2 User-Space File System](#user-space-file-system)
+
   * [1.3 Crash Consistency](#crash-consistency)
+
   * [1.4 Multicore/Manycore Scalability](#multicoremanycore-scalability)
+  
 * [2.Distributed File System](#distributed-file-system)
+
   * [2.1 General Purpose File System](#general-purpose-file-system)
+
   * [2.2 Big Data](#big-data)
+
   * [2.3 High Performance Computing](#high-performance-computing-hpc)
-  * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
+
+    * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
+  
   * [2.4 Data Distribution](#data-distribution)
+  
   * [2.5 Metadata Management](#metadata-management)
+  
 * [3.Surveys](#surveys)
 * [4.Analysis](#analysis)
 * [5.Object Storage](#object-storage)
