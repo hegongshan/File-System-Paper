@@ -18,7 +18,8 @@
   * [2.3 High Performance Computing](#high-performance-computing-hpc)
   
     * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
-  * [2.4 Metadata Management](#metadata-management)
+  * [2.4 Data Distribution](#data-distribution)
+  * [2.5 Metadata Management](#metadata-management)
 * [3.Surveys](#surveys)
 * [4.Analysis](#analysis)
 * [5.Object Storage](#object-storage)
@@ -98,27 +99,15 @@
 
 [2003 MSST] **zFS - A Scalable Distributed File System Using Object Disks**. [[PDF](https://www.storageconference.us/2003/papers/29-Rodeh-zFS.pdf)] [[Slides](https://storageconference.us/2003/presentations/D02-Teperman.pdf)]
 
-[2011 ATC] **TidyFS: A Simple and Small Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/atc11/tech/final_files/Fetterly.pdf)] [[Slides](https://www.usenix.org/legacy/events/atc11/tech/slides/fetterly.pdf)]
-
-#### Ceph
-
-[2006 SC] **CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data**. [[PDF](https://ceph.com/assets/pdfs/weil-crush-sc06.pdf)]
-
 [2006 OSDI] **Ceph: A Scalable, High-Performance Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/weil/weil.pdf)]
 
 [2007 SC] **RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters**. [[PDF](https://ceph.com/assets/pdfs/weil-rados-pdsw07.pdf)]
 
 [2007 Ph.D. Thesis@UCSC] **Ceph: Reliable, Scalable, and High-Performance Distributed Storage**. [[PDF](https://ceph.com/assets/pdfs/weil-thesis.pdf)]
 
+[2011 ATC] **TidyFS: A Simple and Small Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/atc11/tech/final_files/Fetterly.pdf)] [[Slides](https://www.usenix.org/legacy/events/atc11/tech/slides/fetterly.pdf)]
+
 [2019 SOSP] **File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)]
-
-[2020 FAST] **MAPX: Controlled Data Migration in the Expansion of Decentralized Object-Based Storage Systems**. [[PDF](https://www.usenix.org/system/files/fast20-wang_li.pdf)]
-
-* Load Balance
-
-[2015 SC] **Mantle: a programmable metadata load balancer for the ceph file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2807591.2807607)]
-
-[2021 SC] **Lunule: An Agile and Judicious Metadata Load Balancer for CephFS**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3458817.3476196)]
 
 ### Big Data
 
@@ -144,6 +133,12 @@
 
 [2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Codes](https://storage.bsc.es/gitlab/hpc/gekkofs)]
 
+### Data Distribution
+
+[2006 SC] **CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data**. [[PDF](https://ceph.com/assets/pdfs/weil-crush-sc06.pdf)]
+
+[2020 FAST] **MAPX: Controlled Data Migration in the Expansion of Decentralized Object-Based Storage Systems**. [[PDF](https://www.usenix.org/system/files/fast20-wang_li.pdf)]
+
 ### Metadata Management
 
 [2003 MSST] **Efficient Metadata Management in Large Distributed Storage Systems**. [[PDF](https://www.storageconference.us/2003/papers/36-Brandt-Efficient.pdf)] [[Slides](https://www.storageconference.us/2003/presentations/D09-Brandt.pdf)]
@@ -165,6 +160,12 @@
 [2018 TPDS] **A Flattened Metadata Service for Distributed File Systems**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8370078)]
 
 [2022 FAST] **InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems**. [[PDF](https://www.usenix.org/system/files/fast22-lv.pdf)] [[Slides](https://www.usenix.org/system/files/fast22_slides_lv.pdf)]
+
+* Load Balance
+
+[2015 SC] **Mantle: a programmable metadata load balancer for the ceph file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2807591.2807607)]
+
+[2021 SC] **Lunule: An Agile and Judicious Metadata Load Balancer for CephFS**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3458817.3476196)]
 
 ### Surveys
 
