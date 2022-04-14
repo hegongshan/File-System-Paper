@@ -34,6 +34,8 @@
 
 [Linux File System](https://www.kernel.org/doc/html/latest/filesystems)
 
+[1984 TOCS] FFS: **A Fast File System for UNIX**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/989.990)]
+
 [1991 SOSP] LFS: **The Design and Implementation of a Log-Structured File System**. [[PDF](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)]
 
 [1995] **Design and Implementation of the Second Extended Filesystem**. [[PDF](http://e2fsprogs.sourceforge.net/ext2intro.html)]
