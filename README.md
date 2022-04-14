@@ -8,13 +8,14 @@
   
   * [1.2 User-Space File System](#user-space-file-system)
 
+  * [1.3 Crash Consistency](#crash-consistency)
 
 * [2.Distributed File System](#distributed-file-system)
   
   * [2.1 General Purpose File System](#general-purpose-file-system)
-  
+
     * [2.1.1 Ceph](#ceph)
-  
+    
   * [2.2 Big Data](#big-data)
   
   * [2.3 High Performance Computing](#high-performance-computing-hpc)
@@ -97,6 +98,8 @@
 [1987 SOSP & 1988 TOCS] AFS: **Scale and performance in a distributed file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/35037.35059)]
 
 [1993 SOSP & 1995 TOCS] **The Zebra Striped Network File System**. [[PDF](http://people.eecs.berkeley.edu/~prabal/resources/osprelim/HO93.pdf)] [[Ph.D. Thesis](https://www.researchgate.net/profile/John-Ousterhout/publication/220439180_The_Zebra_Striped_Network/links/53e296890cf275a5fdda2eca/The-Zebra-Striped-Network.pdf)]
+
+[2003 MSST] **zFS - A Scalable Distributed File System Using Object Disks**. [[PDF](https://www.storageconference.us/2003/papers/29-Rodeh-zFS.pdf)] [[Slides](https://storageconference.us/2003/presentations/D02-Teperman.pdf)]
 
 [2011 ATC] **TidyFS: A Simple and Small Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/atc11/tech/final_files/Fetterly.pdf)] [[Slides](https://www.usenix.org/legacy/events/atc11/tech/slides/fetterly.pdf)]
 
