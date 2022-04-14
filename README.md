@@ -9,22 +9,19 @@
   * [1.2 User-Space File System](#user-space-file-system)
 
   * [1.3 Crash Consistency](#crash-consistency)
-
 * [2.Distributed File System](#distributed-file-system)
   
   * [2.1 General Purpose File System](#general-purpose-file-system)
 
     * [2.1.1 Ceph](#ceph)
-    
   * [2.2 Big Data](#big-data)
-  
   * [2.3 High Performance Computing](#high-performance-computing-hpc)
   
     * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
-* [3.Metadata Management Optimization](#metadata-management-optimization)
-* [4.Surveys](#surveys)
-* [5.Analysis](#analysis)
-* [6.Object Storage](#object-storage)
+  * [2.4 Metadata Management](#metadata-management)
+* [3.Surveys](#surveys)
+* [4.Analysis](#analysis)
+* [5.Object Storage](#object-storage)
 
 ## Local File System
 
@@ -105,10 +102,6 @@
 
 #### Ceph
 
-[2003 MSST] **Efficient Metadata Management in Large Distributed Storage Systems**. [[PDF](https://www.storageconference.us/2003/papers/36-Brandt-Efficient.pdf)] [[Slides](https://www.storageconference.us/2003/presentations/D09-Brandt.pdf)]
-
-[2004 SC] **Dynamic Metadata Management for Petabyte-scale File Systems**. [[PDF](https://ceph.com/assets/pdfs/weil-mds-sc04.pdf)]
-
 [2006 SC] **CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data**. [[PDF](https://ceph.com/assets/pdfs/weil-crush-sc06.pdf)]
 
 [2006 OSDI] **Ceph: A Scalable, High-Performance Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/weil/weil.pdf)]
@@ -151,9 +144,13 @@
 
 [2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Codes](https://storage.bsc.es/gitlab/hpc/gekkofs)]
 
-### Metadata Management Optimization
+### Metadata Management
 
-* Key-Value Store Based Metadata Management
+[2003 MSST] **Efficient Metadata Management in Large Distributed Storage Systems**. [[PDF](https://www.storageconference.us/2003/papers/36-Brandt-Efficient.pdf)] [[Slides](https://www.storageconference.us/2003/presentations/D09-Brandt.pdf)]
+
+[2004 SC] **Dynamic Metadata Management for Petabyte-scale File Systems**. [[PDF](https://ceph.com/assets/pdfs/weil-mds-sc04.pdf)]
+
+* Key-Value Store based
 
 [2013 ATC] **TABLEFS: Enhancing Metadata Efficiency in the Local File System**. [[PDF](https://www.usenix.org/system/files/conference/atc13/atc13-ren.pdf)]
 
