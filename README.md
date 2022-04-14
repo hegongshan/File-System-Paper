@@ -3,21 +3,14 @@
 * [1.Local File System](#local-file-system)
   
   * [1.1 Kernel File System](#kernel-file-system)
-  
-    * [1.1.1 Multicore/Manycore Scalability](#multicoremanycore-scalability)
-  
   * [1.2 User-Space File System](#user-space-file-system)
-
   * [1.3 Crash Consistency](#crash-consistency)
+  * [1.4 Multicore/Manycore Scalability](#multicoremanycore-scalability)
 * [2.Distributed File System](#distributed-file-system)
-  
   * [2.1 General Purpose File System](#general-purpose-file-system)
-
-    * [2.1.1 Ceph](#ceph)
   * [2.2 Big Data](#big-data)
   * [2.3 High Performance Computing](#high-performance-computing-hpc)
-  
-    * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
+  * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
   * [2.4 Data Distribution](#data-distribution)
   * [2.5 Metadata Management](#metadata-management)
 * [3.Surveys](#surveys)
@@ -50,14 +43,6 @@
 
 [2015 FAST] **F2FS: A New File System for Flash Storage**. [[PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-lee.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast15_slides_lee.pdf)]
 
-#### Multicore/Manycore Scalability
-
-[2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)]
-
-[2017 SOSP] ScaleFS: **Scaling a File System to Many Cores Using an Operation Log**. [[PDF](https://pdos.csail.mit.edu/papers/scalefs.pdf)]
-
-[2022 FAST] **ScaleXFS: Getting scalability of XFS back on the ring**. [[PDF](https://www.usenix.org/system/files/fast22-kim.pdf)]
-
 
 ### User-Space File System
 
@@ -86,6 +71,14 @@
 [2013 SOSP] **Optimistic Crash Consistency**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13-slides.pdf)] [[Codes](https://github.com/utsaslab/optfs)]
 
 [2017 TOS] **Application Crash Consistency and Performance with CCFS**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/ccfs-tos17.pdf)]
+
+### Multicore/Manycore Scalability
+
+[2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)]
+
+[2017 SOSP] ScaleFS: **Scaling a File System to Many Cores Using an Operation Log**. [[PDF](https://pdos.csail.mit.edu/papers/scalefs.pdf)]
+
+[2022 FAST] **ScaleXFS: Getting scalability of XFS back on the ring**. [[PDF](https://www.usenix.org/system/files/fast22-kim.pdf)]
 
 ## Distributed File System
 
