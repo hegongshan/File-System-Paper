@@ -4,20 +4,22 @@
 
   * [1.1 Kernel File System](#kernel-file-system)
 
-  * [1.2 User-Space File System](#user-space-file-system)
+* [1.2 User-Space File System](#user-space-file-system)
 
   * [1.3 Crash Consistency](#crash-consistency)
 
+    * [1.3.1 File System Check](#file-system-check)
+
   * [1.4 Multicore/Manycore Scalability](#multicoremanycore-scalability)
-  
+
 * [2.Distributed File System](#distributed-file-system)
 
   * [2.1 General Purpose File System](#general-purpose-file-system)
-
+  
   * [2.2 Big Data](#big-data)
-
+  
   * [2.3 High Performance Computing](#high-performance-computing-hpc)
-
+  
     * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
   
   * [2.4 Data Distribution](#data-distribution)
@@ -84,6 +86,10 @@
 [2013 SOSP] **Optimistic Crash Consistency**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13-slides.pdf)] [[Codes](https://github.com/utsaslab/optfs)]
 
 [2017 TOS] **Application Crash Consistency and Performance with CCFS**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/ccfs-tos17.pdf)]
+
+#### File System Check
+
+[1996] **Fsck − The UNIX File System Check Program**. [[PDF](https://docs.freebsd.org/44doc/smm/03.fsck/paper.pdf)]
 
 ### Multicore/Manycore Scalability
 
