@@ -2,29 +2,29 @@
 
 * [1.Local File System](#local-file-system)
 
-  * [1.1 Kernel File System](#kernel-file-system)
+    * [1.1 Kernel File System](#kernel-file-system)
 
-* [1.2 User-Space File System](#user-space-file-system)
+    * [1.2 User-Space File System](#user-space-file-system)
 
-  * [1.3 Crash Consistency](#crash-consistency)
+    * [1.3 Crash Consistency](#crash-consistency)
 
-    * [1.3.1 File System Check](#file-system-check)
+        * [1.3.1 File System Check](#file-system-check)
 
-  * [1.4 Multicore/Manycore Scalability](#multicoremanycore-scalability)
+    * [1.4 Multicore/Manycore Scalability](#multicoremanycore-scalability)
 
 * [2.Distributed File System](#distributed-file-system)
 
-  * [2.1 General Purpose File System](#general-purpose-file-system)
-  
-  * [2.2 Big Data](#big-data)
-  
-  * [2.3 High Performance Computing](#high-performance-computing-hpc)
-  
-    * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
-  
-  * [2.4 Data Distribution](#data-distribution)
-  
-  * [2.5 Metadata Management](#metadata-management)
+    * [2.1 General Purpose File System](#general-purpose-file-system)
+    
+    * [2.2 Big Data](#big-data)
+    
+    * [2.3 High Performance Computing](#high-performance-computing-hpc)
+    
+        * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
+    
+    * [2.4 Data Distribution](#data-distribution)
+    
+    * [2.5 Metadata Management](#metadata-management)
   
 * [3.Surveys](#surveys)
 * [4.Analysis](#analysis)
@@ -90,6 +90,14 @@
 #### File System Check
 
 [1996] **Fsck − The UNIX File System Check Program**. [[PDF](https://docs.freebsd.org/44doc/smm/03.fsck/paper.pdf)]
+
+[2008 OSDI] **SQCK: A Declarative File System Checker**. [[PDF](https://www.usenix.org/legacy/events/osdi08/tech/full_papers/gunawi/gunawi.pdf)]
+
+[2013 FAST] **ffsck: The Fast File System Checker**. [[PDF](https://research.cs.wisc.edu/wind/Publications/ffsck-fast13.pdf)]
+
+[2018 TOS] **Towards Robust File System Checkers**. [[PDF](https://www.researchgate.net/profile/Vyacheslav-Dubeyko/publication/329404304_Towards_Robust_File_System_Checkers/links/5ef11e2d92851ce9e7fcb189/Towards-Robust-File-System-Checkers.pdf)]
+
+[2021 FAST] **pFSCK: Accelerating File System Checking and Repair for Modern Storage**. [[PDF](https://www.usenix.org/system/files/fast21-domingo.pdf)]
 
 ### Multicore/Manycore Scalability
 
