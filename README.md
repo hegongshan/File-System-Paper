@@ -44,6 +44,8 @@
 
 [1986 USENIX Summer] **Vnodes: An Architecture for Multiple File System Types in Sun UNIX**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=02078963FA44C8EBC96821CDF6B7E03D?doi=10.1.1.113.4370&rep=rep1&type=pdf)]
 
+[1991 USENIX Winter] **Extent−like Performance from a UNIX File System**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=039E84DD92E84589651112B56EC7D240?doi=10.1.1.26.2218&rep=rep1&type=pdf)]
+
 [1991 SOSP] LFS: **The Design and Implementation of a Log-Structured File System**. [[PDF](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)]
 
 [1995] **Design and Implementation of the Second Extended Filesystem**. [[PDF](http://e2fsprogs.sourceforge.net/ext2intro.html)]
