@@ -23,10 +23,12 @@
     * [2.3 High Performance Computing](#high-performance-computing-hpc)
     
         * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
+
+    * [2.4 Cloud Computing](#cloud-computing)
     
-    * [2.4 Data Distribution](#data-distribution)
+    * [2.5 Data Distribution](#data-distribution)
     
-    * [2.5 Metadata Management](#metadata-management)
+    * [2.6 Metadata Management](#metadata-management)
   
 * [3.Surveys](#surveys)
 
@@ -170,6 +172,12 @@
 
 [2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Codes](https://storage.bsc.es/gitlab/hpc/gekkofs)]
 
+### Cloud Computing
+
+[2018 VLDB] **PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database**. [[PDF](http://www.vldb.org/pvldb/vol11/p1849-cao.pdf)]
+
+[2019 SIGMOD] **CFS: A Distributed File System for Large Scale Container Platforms**. [[PDF](https://arxiv.org/pdf/1911.03001.pdf)]
+
 ### Data Distribution
 
 [2006 SC] **CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data**. [[PDF](https://ceph.com/assets/pdfs/weil-crush-sc06.pdf)]
@@ -217,6 +225,8 @@
 [2016 ICCCA] **Evolution and Analysis of Distributed File Systems in Cloud Storage: Analytical Survey**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7813828)]
 
 [2018 CSUR] **Scalable Metadata Management Techniques for Ultra-Large Distributed Storage Systems – A Systematic Review**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3212686)]
+
+[2022 TOS] **Survey of Distributed File System Design Choices**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3465405)]
 
 ### Analysis
 
