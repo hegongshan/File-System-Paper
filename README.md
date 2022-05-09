@@ -29,6 +29,8 @@
     * [2.5 Data Distribution](#data-distribution)
     
     * [2.6 Metadata Management](#metadata-management)
+
+    * [2.7 Erasure Coding](#erasure-coding)
   
 * [3.Surveys](#surveys)
 
@@ -212,7 +214,11 @@
 
 [2021 SC] **Lunule: An Agile and Judicious Metadata Load Balancer for CephFS**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3458817.3476196)]
 
-### Surveys
+### Erasure Coding
+
+[2015 FAST] **A Tale of Two Erasure Codes in HDFS**. [[PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-xia.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast15_xia_slides.pdf)]
+
+## Surveys
 
 [1989] **A Survey of Distributed File Systems**. [[PDF](https://www.cs.cmu.edu/~satya/docdir/satya89survey.pdf)]
 
@@ -228,7 +234,7 @@
 
 [2022 TOS] **Survey of Distributed File System Design Choices**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3465405)]
 
-### Analysis
+## Analysis
 
 [2000 ATC] **A Comparison of File System Workloads**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/general/full_papers/roselli/roselli.pdf)]
 
