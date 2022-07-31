@@ -38,6 +38,8 @@
 
 * [5.Object Storage](#object-storage)
 
+* [6.AI + Storage](#ai-+-storage)
+
 ## Local File System
 
 ### Kernel File System
@@ -248,3 +250,7 @@
 
 [2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)]
 
+
+### AI + Storage
+
+[2022 CCF Transactions on High Performance Computing] **A survey on AI for storage**. [[PDF](https://link.springer.com/content/pdf/10.1007/s42514-022-00101-3.pdf)]
