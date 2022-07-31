@@ -38,7 +38,7 @@
 
 * [5.Object Storage](#object-storage)
 
-* [6.AI + Storage](#ai-+-storage)
+* [6.AI + Storage](#ai--storage)
 
 ## Local File System
 
