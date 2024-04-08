@@ -122,6 +122,8 @@
 
 [2017 ATC] **Improving File System Performance of Mobile Storage Systems Using a Decoupled Defragmenter**. [[PDF](https://www.usenix.org/system/files/conference/atc17/atc17-hahn.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc17_slides_hahn.pdf)]
 
+[2024 FAST] **We Ain't Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs**. [[PDF](https://www.usenix.org/system/files/fast24-jun.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-jun.pdf)]
+
 
 ### Multicore/Manycore Scalability
 
