@@ -1,14 +1,13 @@
 # File System
 
 * [1.Local File System](#local-file-system)
-
     * [1.1 Kernel File System](#kernel-file-system)
     
     * [1.2 User-Space File System](#user-space-file-system)
     
     * [1.3 Crash Consistency](#crash-consistency)
-    
-        * [1.3.1 File System Check](#file-system-check)
+        * [1.3.1 File System Checker](#file-system-checker)
+        * [1.3.2 Others](#others)
     
     * [1.4 Fragmentation](#fragmentation)
     
@@ -44,7 +43,7 @@
 
 ### Kernel File System
 
-[Linux File System](https://www.kernel.org/doc/html/latest/filesystems)
+> [Linux File System](https://www.kernel.org/doc/html/latest/filesystems)
 
 [1984 TOCS] FFS: **A Fast File System for UNIX**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/989.990)]
 
@@ -95,13 +94,7 @@
 
 ### Crash Consistency
 
-[2012 FAST] **Consistency Without Ordering**. [[PDF](https://www.usenix.org/legacy/event/fast/tech/full_papers/Chidambaram.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/nofs-fast12-slides.pdf)] [[Codes](https://github.com/utsaslab/nofs)]
-
-[2013 SOSP] **Optimistic Crash Consistency**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13-slides.pdf)] [[Codes](https://github.com/utsaslab/optfs)]
-
-[2017 TOS] **Application Crash Consistency and Performance with CCFS**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/ccfs-tos17.pdf)]
-
-#### File System Check
+#### File System Checker
 
 [1983] **Fsck − The UNIX File System Check Program**. [[PDF](https://docs.freebsd.org/44doc/smm/03.fsck/paper.pdf)]
 
@@ -112,6 +105,14 @@
 [2018 TOS] **Towards Robust File System Checkers**. [[PDF](https://www.researchgate.net/profile/Vyacheslav-Dubeyko/publication/329404304_Towards_Robust_File_System_Checkers/links/5ef11e2d92851ce9e7fcb189/Towards-Robust-File-System-Checkers.pdf)]
 
 [2021 FAST] **pFSCK: Accelerating File System Checking and Repair for Modern Storage**. [[PDF](https://www.usenix.org/system/files/fast21-domingo.pdf)]
+
+#### Others
+
+[2012 FAST] **Consistency Without Ordering**. [[PDF](https://www.usenix.org/legacy/event/fast/tech/full_papers/Chidambaram.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/nofs-fast12-slides.pdf)] [[Codes](https://github.com/utsaslab/nofs)]
+
+[2013 SOSP] **Optimistic Crash Consistency**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13-slides.pdf)] [[Codes](https://github.com/utsaslab/optfs)]
+
+[2017 TOS] **Application Crash Consistency and Performance with CCFS**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/ccfs-tos17.pdf)]
 
 ### Fragmentation
 
@@ -154,7 +155,7 @@
 
 ### Big Data
 
-[2003 SOSP] GFS: **The Google file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/945445.945450)]
+[2003 SOSP] GFS: **The Google File System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/945445.945450)]
 
 [2010 MSST] **The Hadoop Distributed File System**. [[PDF](https://www.storageconference.us/2010/Papers/MSST/Shvachko.pdf)]
 
