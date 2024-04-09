@@ -6,7 +6,9 @@
     * [1.2 User-Space File System](#user-space-file-system)
     
     * [1.3 Crash Consistency](#crash-consistency)
+      
         * [1.3.1 File System Checker](#file-system-checker)
+        
         * [1.3.2 Others](#others)
     
     * [1.4 Fragmentation](#fragmentation)
@@ -81,6 +83,8 @@
 [2010 SAC] **Performance and Extension of User Space File Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1774088.1774130)]
 
 [2011 EuroSys] **Refuse to crash with Re-FUSE**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1966445.1966453)]
+
+[2013 ATC] **TABLEFS: Enhancing Metadata Efficiency in the Local File System**. [[PDF](https://www.usenix.org/system/files/conference/atc13/atc13-ren.pdf)]
 
 [2015 HotStorage] **Terra Incognita: On the Practicality of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/hotstorage15/hotstorage15-tarasov.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage15_slides_tarasov.pdf)]
 
@@ -199,8 +203,6 @@
 
 * Key-Value Store based
 
-[2013 ATC] **TABLEFS: Enhancing Metadata Efficiency in the Local File System**. [[PDF](https://www.usenix.org/system/files/conference/atc13/atc13-ren.pdf)]
-
 [2014 SC] **IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/FS/IndexFS-SC14.pdf)] [[Slides](http://www.cs.cmu.edu/afs/cs/Web/People/kair/papers/index_fs_sc_2014.pdf)]
 
 [2015 SoCC] **ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p236-xiao-SoCC15.pdf)]
@@ -257,3 +259,5 @@
 ### AI + Storage
 
 [2022 CCF Transactions on High Performance Computing] **A survey on AI for storage**. [[PDF](https://link.springer.com/content/pdf/10.1007/s42514-022-00101-3.pdf)]
+
+[2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training**. [[PDF](http://dx.doi.org/10.7544/issn1000-1239.202330554)]
