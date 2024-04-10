@@ -45,7 +45,7 @@
 
 ### Kernel File System
 
-> [Linux File System](https://www.kernel.org/doc/html/latest/filesystems)
+> Linux File System, https://www.kernel.org/doc/html/latest/filesystems
 
 [1984 TOCS] FFS: **A Fast File System for UNIX**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/989.990)]
 
@@ -72,6 +72,8 @@
 [2013 TOS] **BTRFS: The Linux B-Tree Filesystem**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2501620.2501623)]
 
 [2015 FAST] **F2FS: A New File System for Flash Storage**. [[PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-lee.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast15_slides_lee.pdf)]
+
+[2019 ATC] **EROFS: A Compression-friendly Readonly File System for Resource-scarce Devices**. [[PDF](https://www.usenix.org/system/files/atc19-gao.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_gao.pdf)]
 
 
 ### User-Space File System
