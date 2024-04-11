@@ -47,6 +47,8 @@
 
 > Linux File System, https://www.kernel.org/doc/html/latest/filesystems
 
+[1974 CACM] Old UNIX File System: **The UNIX Time-Sharing System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/361011.361061)]
+
 [1984 TOCS] FFS: **A Fast File System for UNIX**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/989.990)]
 
 [1986 USENIX Summer] **Vnodes: An Architecture for Multiple File System Types in Sun UNIX**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=02078963FA44C8EBC96821CDF6B7E03D?doi=10.1.1.113.4370&rep=rep1&type=pdf)]
@@ -165,7 +167,7 @@
 
 [2003 SOSP] GFS: **The Google File System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/945445.945450)]
 
-[2010 MSST] **The Hadoop Distributed File System**. [[PDF](https://www.storageconference.us/2010/Papers/MSST/Shvachko.pdf)]
+[2010 MSST] HDFS: **The Hadoop Distributed File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Shvachko.pdf)]
 
 [2021 FAST] **Facebook’s Tectonic Filesystem: Efficiency from Exascale**. [[PDF](https://www.usenix.org/system/files/fast21-pan.pdf)]
 
