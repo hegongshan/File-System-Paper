@@ -63,6 +63,8 @@
 
 [1998 LinuxExpo] ext3: **Journaling the Linux ext2fs Filesystem**. [[PDF](https://pdos.csail.mit.edu/6.828/2020/readings/journal-design.pdf)]
 
+[2003 FAST] ZFS: **The Zettabyte File System**. [[PDF](https://courses.cs.washington.edu/courses/cse451/22sp/lectures/zfs_overview.pdf)]
+
 [2005 ATC] **Analysis and Evolution of Journaling File Systems**. [[PDF](https://www.usenix.org/legacy/events/usenix05/tech/general/full_papers/prabhakaran/prabhakaran.pdf)]
 
 [2006 SIGOPS Operating Systems Review] NILFS: **The Linux implementation of a log-structured file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1151374.1151375)]
