@@ -90,6 +90,8 @@
 
 [2010 SAC] **Performance and Extension of User Space File Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1774088.1774130)]
 
+[2010 MSST] LTFS: **The Linear Tape File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Pease.pdf)] [[Codes](https://github.com/LinearTapeFileSystem/ltfs)]
+
 [2011 EuroSys] **Refuse to crash with Re-FUSE**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1966445.1966453)]
 
 [2013 ATC] **TABLEFS: Enhancing Metadata Efficiency in the Local File System**. [[PDF](https://www.usenix.org/system/files/conference/atc13/atc13-ren.pdf)]
