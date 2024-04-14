@@ -1,6 +1,7 @@
 # File System
 
 * [1.Local File System](#local-file-system)
+    
     * [1.1 Kernel File System](#kernel-file-system)
     
     * [1.2 User-Space File System](#user-space-file-system)
@@ -44,9 +45,13 @@
             * [2.7.1.3 Consensus-based Replication](#consensus-based-replication)
           
       * [2.7.2 Erasure Coding](#erasure-coding)
+
 * [3.Surveys](#surveys)
+
 * [4.Analysis](#analysis)
+
 * [5.Object Storage](#object-storage)
+
 * [6.AI + Storage](#ai--storage)
 
 ## Local File System
@@ -290,6 +295,8 @@
 ## Analysis
 
 [2000 ATC] **A Comparison of File System Workloads**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/general/full_papers/roselli/roselli.pdf)]
+
+[2007 FAST] **A Five-Year Study of File-System Metadata**. [[PDF](https://www.usenix.org/legacy/events/fast07/tech/full_papers/agrawal/agrawal.pdf)]
 
 ## Object Storage
 
