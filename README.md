@@ -52,8 +52,6 @@
 
 * [5.Object Storage](#object-storage)
 
-* [6.AI + Storage](#ai--storage)
-
 ## Local File System
 
 ### Kernel File System
@@ -69,6 +67,8 @@
 [1991 USENIX Winter] **Extent−like Performance from a UNIX File System**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=039E84DD92E84589651112B56EC7D240?doi=10.1.1.26.2218&rep=rep1&type=pdf)]
 
 [1991 SOSP] LFS: **The Design and Implementation of a Log-Structured File System**. [[PDF](https://people.eecs.berkeley.edu/~brewer/cs262/LFS.pdf)]
+
+[1993 USENIX Winter] **An Implementation of a Log-Structured File System for UNIX**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/sd93/seltzer.pdf)]
 
 [1995] **Design and Implementation of the Second Extended Filesystem**. [[PDF](http://e2fsprogs.sourceforge.net/ext2intro.html)]
 
@@ -94,6 +94,7 @@
 
 [2019 ATC] **EROFS: A Compression-friendly Readonly File System for Resource-scarce Devices**. [[PDF](https://www.usenix.org/system/files/atc19-gao.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_gao.pdf)]
 
+[2020 vault] **zonefs: Mapping POSIX File System Interface to Raw Zoned Block Device Accesses**. [[Slides](https://www.usenix.org/system/files/vault20_slides_moal.pdf)]
 
 ### User-Space File System
 
@@ -150,7 +151,6 @@
 [2017 ATC] **Improving File System Performance of Mobile Storage Systems Using a Decoupled Defragmenter**. [[PDF](https://www.usenix.org/system/files/conference/atc17/atc17-hahn.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc17_slides_hahn.pdf)]
 
 [2024 FAST] **We Ain't Afraid of No File Fragmentation: Causes and Prevention of Its Performance Impact on Modern Flash SSDs**. [[PDF](https://www.usenix.org/system/files/fast24-jun.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-jun.pdf)]
-
 
 ### Multicore/Manycore Scalability
 
@@ -292,6 +292,10 @@
 
 [2022 TOS] **Survey of Distributed File System Design Choices**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3465405)]
 
+[2022 CCF Transactions on High Performance Computing] **A survey on AI for storage**. [[PDF](https://link.springer.com/content/pdf/10.1007/s42514-022-00101-3.pdf)]
+
+[2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training**. [[PDF](http://dx.doi.org/10.7544/issn1000-1239.202330554)]
+
 ## Analysis
 
 [2000 ATC] **A Comparison of File System Workloads**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/general/full_papers/roselli/roselli.pdf)]
@@ -308,9 +312,3 @@
 
 [2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)]
 
-
-### AI + Storage
-
-[2022 CCF Transactions on High Performance Computing] **A survey on AI for storage**. [[PDF](https://link.springer.com/content/pdf/10.1007/s42514-022-00101-3.pdf)]
-
-[2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training**. [[PDF](http://dx.doi.org/10.7544/issn1000-1239.202330554)]
