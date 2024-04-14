@@ -175,6 +175,8 @@
 
 [2010 MSST] HDFS: **The Hadoop Distributed File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Shvachko.pdf)]
 
+[2013 VLDB] QFS: **The Quantcast File System**. [[PDF](https://vldb.org/pvldb/vol6/p1092-ovsiannikov.pdf)] [[Codes](https://github.com/quantcast/qfs)]
+
 [2021 FAST] **Facebook’s Tectonic Filesystem: Efficiency from Exascale**. [[PDF](https://www.usenix.org/system/files/fast21-pan.pdf)]
 
 ### High Performance Computing (HPC)
