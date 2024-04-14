@@ -14,36 +14,39 @@
     * [1.4 Fragmentation](#fragmentation)
     
     * [1.5 Multicore/Manycore Scalability](#multicoremanycore-scalability)
-    
+
 * [2.Distributed File System](#distributed-file-system)
 
     * [2.1 General Purpose File System](#general-purpose-file-system)
-    
+
     * [2.2 Big Data](#big-data)
     
     * [2.3 High Performance Computing](#high-performance-computing-hpc)
     
+        * [2.3.2 Parallel File System](#parallel-file-system)
+        
         * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
-
+    
     * [2.4 Cloud Computing](#cloud-computing)
     
     * [2.5 Data Distribution](#data-distribution)
     
     * [2.6 Metadata Management](#metadata-management)
-
+    
     * [2.7 Fault Tolerance](#fault-tolerance)
-      * [2.7.1 Replication](#replication)
-          * [2.7.1.1 Primary-backup Replication](#primary-backup-replication)
-          * [2.7.1.2 Chain Replication](#chain-replication)
-          * [2.7.1.3 Consensus-based Replication](#consensus-based-replication)
+      
+        * [2.7.1 Replication](#replication)
+        
+            * [2.7.1.1 Primary-backup Replication](#primary-backup-replication)
+            
+            * [2.7.1.2 Chain Replication](#chain-replication)
+            
+            * [2.7.1.3 Consensus-based Replication](#consensus-based-replication)
+          
       * [2.7.2 Erasure Coding](#erasure-coding)
-  
 * [3.Surveys](#surveys)
-
 * [4.Analysis](#analysis)
-
 * [5.Object Storage](#object-storage)
-
 * [6.AI + Storage](#ai--storage)
 
 ## Local File System
@@ -186,6 +189,8 @@
 
 ### High Performance Computing (HPC)
 
+#### Parallel File System
+
 [2000] **PVFS: A Parallel File System for Linux Clusters**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/als00/2000papers/papers/full_papers/carns/carns.pdf)]
 
 [2002 FAST] **GPFS: A Shared-Disk File System for Large Computing Clusters**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/fast02/full_papers/schmuck/schmuck.pdf)]
@@ -252,7 +257,7 @@
 
 ##### Consensus-based Replication
 
-[1998 TOCS] PAXOS: **The Part-Time Parliament**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/279227.279229)]
+[1998 TOCS] Paxos: **The Part-Time Parliament**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/279227.279229)]
 
 [2001 ACM SIGACT News] **Paxos Made Simple**. [[PDF](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)]
 
