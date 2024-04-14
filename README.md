@@ -31,7 +31,12 @@
     
     * [2.6 Metadata Management](#metadata-management)
 
-    * [2.7 Erasure Coding](#erasure-coding)
+    * [2.7 Fault Tolerance](#fault-tolerance)
+      * [2.7.1 Replication](#replication)
+          * [2.7.1.1 Primary-backup Replication](#primary-backup-replication)
+          * [2.7.1.2 Chain Replication](#chain-replication)
+          * [2.7.1.3 Consensus-based Replication](#consensus-based-replication)
+      * [2.7.2 Erasure Coding](#erasure-coding)
   
 * [3.Surveys](#surveys)
 
@@ -233,9 +238,33 @@
 
 [2021 SC] **Lunule: An Agile and Judicious Metadata Load Balancer for CephFS**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3458817.3476196)]
 
-### Erasure Coding
+### Fault Tolerance
+
+#### Replication
+
+##### Primary-backup Replication
+
+[1976 ICSE] **A principle for resilient sharing of distributed resources**. [[PDF](https://dl.acm.org/doi/pdf/10.5555/800253.807732)]
+
+##### Chain Replication
+
+[2004 OSDI] **Chain Replication for Supporting High Throughput and Availability**. [[PDF](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf)]
+
+##### Consensus-based Replication
+
+[1998 TOCS] PAXOS: **The Part-Time Parliament**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/279227.279229)]
+
+[2001 ACM SIGACT News] **Paxos Made Simple**. [[PDF](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)]
+
+[2014 ATC] Raft: **In Search of an Understandable Consensus Algorithm**. [[PDF](https://www.usenix.org/system/files/conference/atc14/atc14-paper-ongaro.pdf)]
+
+#### Erasure Coding
+
+[2012 ATC] **Erasure Coding in Windows Azure Storage**. [[PDF](https://www.usenix.org/system/files/conference/atc12/atc12-final181_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/huang_atc12_slides_0.pdf)]
 
 [2015 FAST] **A Tale of Two Erasure Codes in HDFS**. [[PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-xia.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast15_xia_slides.pdf)]
+
+[2018 FAST] **Clay Codes: Moulding MDS Codes to Yield an MSR Code**. [[PDF](https://www.usenix.org/system/files/conference/fast18/fast18-vajha.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast18_slides_vajha.pdf)]
 
 ## Surveys
 
