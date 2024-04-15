@@ -26,7 +26,7 @@
     
         * [2.3.2 Parallel File System](#parallel-file-system)
         
-        * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
+        * [2.3.1 Burst Buffer File System/Ad Hoc File System](#burst-buffer-file-systemad-hoc-file-system)
     
     * [2.4 Cloud Computing](#cloud-computing)
     
@@ -94,7 +94,7 @@
 
 [2019 ATC] **EROFS: A Compression-friendly Readonly File System for Resource-scarce Devices**. [[PDF](https://www.usenix.org/system/files/atc19-gao.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_gao.pdf)]
 
-[2020 vault] **zonefs: Mapping POSIX File System Interface to Raw Zoned Block Device Accesses**. [[Slides](https://www.usenix.org/system/files/vault20_slides_moal.pdf)]
+[2020 VAULT] **zonefs: Mapping POSIX File System Interface to Raw Zoned Block Device Accesses**. [[Slides](https://www.usenix.org/system/files/vault20_slides_moal.pdf)]
 
 ### User-Space File System
 
@@ -204,7 +204,7 @@
 
 [2008 FAST] **Scalable Performance of the Panasas Parallel File System**. [[PDF](https://www.usenix.org/legacy/events/fast08/tech/full_papers/welch/welch.pdf)]
 
-#### Burst Buffer File System
+#### Burst Buffer File System/Ad Hoc File System
 
 [2016 SC] BurstFS: **An Ephemeral Burst-Buffer File System for Scientific Applications**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877147)]
 
@@ -290,9 +290,11 @@
 
 [2018 CSUR] **Scalable Metadata Management Techniques for Ultra-Large Distributed Storage Systems – A Systematic Review**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3212686)]
 
+[2020 JCST] **Ad Hoc File Systems for High-Performance Computing**. [[PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9801-1.pdf)]
+
 [2022 TOS] **Survey of Distributed File System Design Choices**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3465405)]
 
-[2022 CCF Transactions on High Performance Computing] **A survey on AI for storage**. [[PDF](https://link.springer.com/content/pdf/10.1007/s42514-022-00101-3.pdf)]
+[2022 CCF-THPC] **A survey on AI for storage**. [[PDF](https://link.springer.com/content/pdf/10.1007/s42514-022-00101-3.pdf)]
 
 [2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training**. [[PDF](http://dx.doi.org/10.7544/issn1000-1239.202330554)]
 
