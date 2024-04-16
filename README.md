@@ -52,6 +52,8 @@
 
 * [5.Object Storage](#object-storage)
 
+* [6.New Hardware](#new-hardware)
+
 ## Local File System
 
 ### Kernel File System
@@ -80,13 +82,9 @@
 
 [2003 FAST] ZFS: **The Zettabyte File System**. [[PDF](https://courses.cs.washington.edu/courses/cse451/22sp/lectures/zfs_overview.pdf)]
 
-[2005 ATC] **Analysis and Evolution of Journaling File Systems**. [[PDF](https://www.usenix.org/legacy/events/usenix05/tech/general/full_papers/prabhakaran/prabhakaran.pdf)]
-
 [2006 SIGOPS Operating Systems Review] NILFS: **The Linux implementation of a log-structured file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1151374.1151375)]
 
 [2007] **The new ext4 filesystem: Current status and future plans**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.111.798&rep=rep1&type=pdf#page=21)]
-
-[2013 FAST] **A Study of Linux File System Evolution**. [[PDF](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf)]
 
 [2013 TOS] **BTRFS: The Linux B-Tree Filesystem**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2501620.2501623)]
 
@@ -282,6 +280,8 @@
 
 [1990] **Distributed File Systems: Concepts and Examples**. [[PDF](https://www.isical.ac.in/~ansuman/dist_sys/DFSPaper.pdf)]
 
+[2005 ATC] **Analysis and Evolution of Journaling File Systems**. [[PDF](https://www.usenix.org/legacy/events/usenix05/tech/general/full_papers/prabhakaran/prabhakaran.pdf)]
+
 [2008 NCM] **A Taxonomy and Survey on Distributed File Systems**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4623994)]
 
 [2015] **Analysis of Six Distributed File Systems**. [[PDF](https://hal.inria.fr/hal-00789086/file/a_survey_of_dfs.pdf)]
@@ -304,6 +304,8 @@
 
 [2007 FAST] **A Five-Year Study of File-System Metadata**. [[PDF](https://www.usenix.org/legacy/events/fast07/tech/full_papers/agrawal/agrawal.pdf)]
 
+[2013 FAST] **A Study of Linux File System Evolution**. [[PDF](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf)]
+
 ## Object Storage
 
 [2003 MSST] **Towards an Object Store**. [[PDF](https://www.storageconference.us/2003/papers/24-Azagury-Towards.pdf)] [[Slides](https://www.storageconference.us/2003/presentations/C07-Azagury.pdf)]
@@ -314,3 +316,8 @@
 
 [2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)]
 
+## New Hardware
+
+[2017 FAST] **LightNVM: The Linux Open-Channel SSD Subsystem**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-bjorling.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_bjorling.pdf)]
+
+[2021 ATC] **ZNS: Avoiding the Block Interface Tax for Flash-based SSDs**. [[PDF](https://www.usenix.org/system/files/atc21-bjorling.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_bjorling.pdf)]
