@@ -321,3 +321,5 @@
 [2017 FAST] **LightNVM: The Linux Open-Channel SSD Subsystem**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-bjorling.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_bjorling.pdf)]
 
 [2021 ATC] **ZNS: Avoiding the Block Interface Tax for Flash-based SSDs**. [[PDF](https://www.usenix.org/system/files/atc21-bjorling.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_bjorling.pdf)]
+
+[2021 OSDI] **ZNS+: Advanced Zoned Namespace Interface for Supporting In-Storage Zone Compaction**. [[PDF](https://www.usenix.org/system/files/osdi21-han.pdf)] [[Slides](https://www.usenix.org/system/files/osdi21_slides_shin.pdf)]
