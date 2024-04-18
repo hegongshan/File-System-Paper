@@ -1,7 +1,7 @@
 # File System
 
 * [1.Local File System](#local-file-system)
-    
+  
     * [1.1 Kernel File System](#kernel-file-system)
     
     * [1.2 User-Space File System](#user-space-file-system)
@@ -229,6 +229,8 @@
 * Key-Value Store based
 
 [2014 SC] **IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/FS/IndexFS-SC14.pdf)] [[Slides](http://www.cs.cmu.edu/afs/cs/Web/People/kair/papers/index_fs_sc_2014.pdf)]
+
+[2015 FAST] **CalvinFS: Consistent WAN Replication and Scalable Metadata Management for Distributed File Systems**. [[PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-thomson.pdf)]
 
 [2015 SoCC] **ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p236-xiao-SoCC15.pdf)]
 
