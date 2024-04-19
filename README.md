@@ -190,6 +190,8 @@
 
 [2021 FAST] **Facebook’s Tectonic Filesystem: Efficiency from Exascale**. [[PDF](https://www.usenix.org/system/files/fast21-pan.pdf)]
 
+[2023 FAST] **More Than Capacity: Performance-Oriented Evolution of Pangu in Alibaba**. [[PDF](https://www.usenix.org/system/files/fast23-li-qiang_more.pdf)] [[Video](https://www.youtube.com/watch?v=Twss7x3Ib2Q)]
+
 ### High Performance Computing (HPC)
 
 #### Parallel File System
