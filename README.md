@@ -26,7 +26,7 @@
     
         * [2.3.2 Parallel File System](#parallel-file-system)
         
-        * [2.3.1 Burst Buffer File System/Ad Hoc File System](#burst-buffer-file-systemad-hoc-file-system)
+        * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
     
     * [2.4 Cloud Computing](#cloud-computing)
     
@@ -204,11 +204,13 @@
 
 [2008 FAST] **Scalable Performance of the Panasas Parallel File System**. [[PDF](https://www.usenix.org/legacy/events/fast08/tech/full_papers/welch/welch.pdf)]
 
-#### Burst Buffer File System/Ad Hoc File System
+#### Burst Buffer File System
 
 [2016 SC] BurstFS: **An Ephemeral Burst-Buffer File System for Scientific Applications**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877147)]
 
 [2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Codes](https://storage.bsc.es/gitlab/hpc/gekkofs)]
+
+[2023 FAST] **HadaFS: A File System Bridging the Local and Shared Burst Buffer for Exascale Supercomputers**. [[PDF](https://www.usenix.org/system/files/fast23-he.pdf)] [[Video](https://www.youtube.com/watch?v=l-pwBIewqno)]
 
 ### Cloud Computing
 
