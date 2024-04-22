@@ -210,6 +210,8 @@
 
 [2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Codes](https://storage.bsc.es/gitlab/hpc/gekkofs)]
 
+[2022 HPCAsia] **CHFS: Parallel Consistent Hashing File System for Node-local Persistent Memory**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3492805.3492807)] [[Codes](https://github.com/otatebe/chfs)]
+
 [2023 FAST] **HadaFS: A File System Bridging the Local and Shared Burst Buffer for Exascale Supercomputers**. [[PDF](https://www.usenix.org/system/files/fast23-he.pdf)] [[Video](https://www.youtube.com/watch?v=l-pwBIewqno)]
 
 ### Cloud Computing
