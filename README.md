@@ -214,6 +214,8 @@
 
 [2023 FAST] **HadaFS: A File System Bridging the Local and Shared Burst Buffer for Exascale Supercomputers**. [[PDF](https://www.usenix.org/system/files/fast23-he.pdf)] [[Video](https://www.youtube.com/watch?v=l-pwBIewqno)]
 
+[2023 IPDPS] **UnifyFS: A User-level Shared File System for Unified Access to Distributed Local Storage**. [[PDF](https://www.osti.gov/servlets/purl/1995690)] [[Codes](https://github.com/LLNL/UnifyFS)] [[Relevant Slides](https://hpckp.org/wp-content/uploads/2022/10/09-UnifyFS-HPCKP20.pdf)]
+
 ### Cloud Computing
 
 [2018 VLDB] **PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database**. [[PDF](http://www.vldb.org/pvldb/vol11/p1849-cao.pdf)]
