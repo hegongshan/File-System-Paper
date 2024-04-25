@@ -206,11 +206,13 @@
 
 #### Burst Buffer File System
 
+[2009 SC] **PLFS: A Checkpoint Filesystem for Parallel Applications**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/PDSI/plfs.pdf)] [[Codes](https://github.com/plfs/plfs-core)]
+
 [2016 SC] BurstFS: **An Ephemeral Burst-Buffer File System for Scientific Applications**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877147)]
 
 [2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Codes](https://storage.bsc.es/gitlab/hpc/gekkofs)]
 
-[2020 JCST] **Gfarm/BB — Gfarm File System for Node-Local Burst Buffer**. [[PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9803-z.pdf)]
+[2020 JCST] **Gfarm/BB — Gfarm File System for Node-Local Burst Buffer**. [[PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9803-z.pdf)] [[Codes](https://github.com/oss-tsukuba/gfarm)]
 
 [2022 HPCAsia] **CHFS: Parallel Consistent Hashing File System for Node-local Persistent Memory**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3492805.3492807)] [[Codes](https://github.com/otatebe/chfs)]
 
