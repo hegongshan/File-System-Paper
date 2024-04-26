@@ -46,13 +46,15 @@
           
       * [2.7.2 Erasure Coding](#erasure-coding)
 
-* [3.Surveys](#surveys)
+* [3.Secure File System](#secure-file-system)
 
-* [4.Analysis](#analysis)
+* [4.Surveys](#surveys)
 
-* [5.Object Storage](#object-storage)
+* [5.Analysis](#analysis)
 
-* [6.New Hardware](#new-hardware)
+* [6.Object Storage](#object-storage)
+
+* [7.New Hardware](#new-hardware)
 
 ## Local File System
 
@@ -289,6 +291,10 @@
 [2015 FAST] **A Tale of Two Erasure Codes in HDFS**. [[PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-xia.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast15_xia_slides.pdf)]
 
 [2018 FAST] **Clay Codes: Moulding MDS Codes to Yield an MSR Code**. [[PDF](https://www.usenix.org/system/files/conference/fast18/fast18-vajha.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast18_slides_vajha.pdf)]
+
+## Secure File System
+
+[2000 OSDI] **Fast and secure distributed read-only file system**. [[PDF](https://www.usenix.org/legacy/events/osdi2000/full_papers/fu/fu.pdf)]
 
 ## Surveys
 
