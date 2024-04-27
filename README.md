@@ -296,6 +296,8 @@
 
 [2000 OSDI] **Fast and secure distributed read-only file system**. [[PDF](https://www.usenix.org/legacy/events/osdi2000/full_papers/fu/fu.pdf)]
 
+[2008 StorageSS] **Tahoe – The Least-Authority Filesystem**. [[PDF](https://tahoe-lafs.org/~trac/lafs.pdf)] [[Codes](https://github.com/tahoe-lafs/tahoe-lafs)]
+
 ## Surveys
 
 [1989] **A Survey of Distributed File Systems**. [[PDF](https://www.cs.cmu.edu/~satya/docdir/satya89survey.pdf)]
