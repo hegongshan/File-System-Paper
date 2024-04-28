@@ -320,6 +320,8 @@
 
 [2022 CCF-THPC] **A survey on AI for storage**. [[PDF](https://link.springer.com/content/pdf/10.1007/s42514-022-00101-3.pdf)]
 
+[2022 TPDS] **The State of the Art of Metadata Managements in Large-Scale Distributed File Systems — Scalability, Performance and Availability**. [[PDF](https://daihao42.github.io/assets/pdf/tpds.pdf)]
+
 [2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training**. [[PDF](http://dx.doi.org/10.7544/issn1000-1239.202330554)]
 
 ## Analysis
