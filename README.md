@@ -236,7 +236,7 @@
 
 ### Metadata Management
 
-[2003 MSST] **Efficient Metadata Management in Large Distributed Storage Systems**. [[PDF](https://www.storageconference.us/2003/papers/36-Brandt-Efficient.pdf)] [[Slides](https://www.storageconference.us/2003/presentations/D09-Brandt.pdf)]
+[2003 MSST] **Efficient Metadata Management in Large Distributed Storage Systems**. [[PDF](https://msstconference.org/MSST-history/2003/papers/36-Brandt-Efficient.pdf)] [[Slides](https://msstconference.org/MSST-history/2003/presentations/D09-Brandt.pdf)]
 
 [2004 SC] **Dynamic Metadata Management for Petabyte-scale File Systems**. [[PDF](https://ceph.com/assets/pdfs/weil-mds-sc04.pdf)]
 
@@ -321,6 +321,8 @@
 [2022 CCF-THPC] **A survey on AI for storage**. [[PDF](https://link.springer.com/content/pdf/10.1007/s42514-022-00101-3.pdf)]
 
 [2022 TPDS] **The State of the Art of Metadata Managements in Large-Scale Distributed File Systems — Scalability, Performance and Availability**. [[PDF](https://daihao42.github.io/assets/pdf/tpds.pdf)]
+
+[2022 TPDS] **A Survey of Storage Systems in the RDMA Era**. [[PDF](http://madsys.cs.tsinghua.edu.cn/publications/TPDS2022-ma.pdf)]
 
 [2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training**. [[PDF](http://dx.doi.org/10.7544/issn1000-1239.202330554)]
 
