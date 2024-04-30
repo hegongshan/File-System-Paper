@@ -294,6 +294,8 @@
 
 ## Secure File System
 
+[1993 CCS] CFS: **A Cryptographic File System for Unix**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/168588.168590)]
+
 [2000 OSDI] **Fast and secure distributed read-only file system**. [[PDF](https://www.usenix.org/legacy/events/osdi2000/full_papers/fu/fu.pdf)]
 
 [2008 StorageSS] **Tahoe – The Least-Authority Filesystem**. [[PDF](https://tahoe-lafs.org/~trac/lafs.pdf)] [[Codes](https://github.com/tahoe-lafs/tahoe-lafs)]
