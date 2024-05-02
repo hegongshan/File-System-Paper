@@ -170,7 +170,7 @@
 
 [1993 SOSP & 1995 TOCS] **The Zebra Striped Network File System**. [[PDF](http://people.eecs.berkeley.edu/~prabal/resources/osprelim/HO93.pdf)] [[Ph.D. Thesis](https://www.researchgate.net/profile/John-Ousterhout/publication/220439180_The_Zebra_Striped_Network/links/53e296890cf275a5fdda2eca/The-Zebra-Striped-Network.pdf)]
 
-[2003 MSST] **zFS - A Scalable Distributed File System Using Object Disks**. [[PDF](https://www.storageconference.us/2003/papers/29-Rodeh-zFS.pdf)] [[Slides](https://storageconference.us/2003/presentations/D02-Teperman.pdf)]
+[2003 MSST] **zFS - A Scalable Distributed File System Using Object Disks**. [[PDF](https://msstconference.org/MSST-history/2003/papers/29-Rodeh-zFS.pdf)] [[Slides](https://msstconference.org/MSST-history/2003/presentations/D02-Teperman.pdf)]
 
 [2006 OSDI] **Ceph: A Scalable, High-Performance Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/weil/weil.pdf)]
 
@@ -186,9 +186,11 @@
 
 [2003 SOSP] GFS: **The Google File System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/945445.945450)]
 
-[2010 MSST] HDFS: **The Hadoop Distributed File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Shvachko.pdf)]
+[2010 MSST] HDFS: **The Hadoop Distributed File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Shvachko.pdf)] [[Slides](https://msstconference.org/MSST-history/2010/Presentations/Research/9.Shvachko.pdf)]
 
 [2013 VLDB] QFS: **The Quantcast File System**. [[PDF](https://vldb.org/pvldb/vol6/p1092-ovsiannikov.pdf)] [[Codes](https://github.com/quantcast/qfs)]
+
+[2017 FAST] **HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-niazi.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_niazi.pdf)]
 
 [2021 FAST] **Facebook’s Tectonic Filesystem: Efficiency from Exascale**. [[PDF](https://www.usenix.org/system/files/fast21-pan.pdf)]
 
@@ -340,9 +342,9 @@
 
 ## Object Storage
 
-[2003 MSST] **Towards an Object Store**. [[PDF](https://www.storageconference.us/2003/papers/24-Azagury-Towards.pdf)] [[Slides](https://www.storageconference.us/2003/presentations/C07-Azagury.pdf)]
+[2003 MSST] **Towards an Object Store**. [[PDF](https://msstconference.org/MSST-history/2003/papers/24-Azagury-Towards.pdf)] [[Slides](https://msstconference.org/MSST-history/2003/presentations/C07-Azagury.pdf)]
 
-[2004 MSST] **OBFS: A File System for Object-based Storage Devices**. [[PDF](https://www.storageconference.us/2004/Papers/33-Wang-a.pdf)] [[Slides](https://www.storageconference.us/2004/Presentations/33r1.pdf)]
+[2004 MSST] **OBFS: A File System for Object-based Storage Devices**. [[PDF](https://msstconference.org/MSST-history/2004/Papers/33-Wang-a.pdf)] [[Slides](https://msstconference.org/MSST-history/2004/Presentations/33r1.pdf)]
 
 [2010 OSDI] **Finding a needle in Haystack: Facebook’s photo storage**. [[PDF](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)] [[Slides](https://www.usenix.org/legacy/events/osdi10/tech/slides/beaver.pdf)]
 
