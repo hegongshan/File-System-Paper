@@ -190,8 +190,6 @@
 
 [2013 VLDB] QFS: **The Quantcast File System**. [[PDF](https://vldb.org/pvldb/vol6/p1092-ovsiannikov.pdf)] [[Codes](https://github.com/quantcast/qfs)]
 
-[2017 FAST] **HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-niazi.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_niazi.pdf)]
-
 [2021 FAST] **Facebook’s Tectonic Filesystem: Efficiency from Exascale**. [[PDF](https://www.usenix.org/system/files/fast21-pan.pdf)]
 
 [2023 FAST] **More Than Capacity: Performance-Oriented Evolution of Pangu in Alibaba**. [[PDF](https://www.usenix.org/system/files/fast23-li-qiang_more.pdf)] [[Video](https://www.youtube.com/watch?v=Twss7x3Ib2Q)]
@@ -242,7 +240,7 @@
 
 [2004 SC] **Dynamic Metadata Management for Petabyte-scale File Systems**. [[PDF](https://ceph.com/assets/pdfs/weil-mds-sc04.pdf)]
 
-* Key-Value Store based
+[2011 FAST] **Scale and Concurrency of GIGA+: File System Directories with Millions of Files**. [[PDF](https://www.usenix.org/legacy/event/fast11/tech/full_papers/PatilNew.pdf)]
 
 [2014 SC] **IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/FS/IndexFS-SC14.pdf)] [[Slides](http://www.cs.cmu.edu/afs/cs/Web/People/kair/papers/index_fs_sc_2014.pdf)]
 
@@ -251,6 +249,8 @@
 [2015 SoCC] **ShardFS vs. IndexFS: Replication vs. Caching Strategies for Distributed Metadata Management in Cloud Storage Systems**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p236-xiao-SoCC15.pdf)]
 
 [2015 PDSW] **DeltaFS: Exascale File Systems Scale Better Without Dedicated Servers**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/CloudComputing/p1-zheng-PDSW15.pdf)]
+
+[2017 FAST] **HopsFS: Scaling Hierarchical File System Metadata Using NewSQL Databases**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-niazi.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_niazi.pdf)]
 
 [2017 SC] **LocoFS: A Loosely-Coupled Metadata Service for Distributed File Systems**. [[PDF](http://storage.cs.tsinghua.edu.cn/papers/sc17-locofs.pdf/)]
 
