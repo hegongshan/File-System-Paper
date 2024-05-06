@@ -338,6 +338,8 @@
 
 [2007 FAST] **A Five-Year Study of File-System Metadata**. [[PDF](https://www.usenix.org/legacy/events/fast07/tech/full_papers/agrawal/agrawal.pdf)]
 
+[2008 TOS] **A Nine Year Study of File System and Storage Benchmarking**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1367829.1367831)]
+
 [2013 FAST] **A Study of Linux File System Evolution**. [[PDF](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf)]
 
 ## Object Storage
