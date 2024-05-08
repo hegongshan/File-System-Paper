@@ -46,8 +46,14 @@
           
       * [2.7.2 Erasure Coding](#erasure-coding)
 
-* [3.Secure File System](#secure-file-system)
-
+* [3.Other Topics](#other-topics)
+    
+    * [3.1 Data Reduction](#data-reduction)
+        
+        * [3.1.1 Deduplication](#deduplication)
+        
+    * [3.2 Security](#security)
+    
 * [4.Surveys](#surveys)
 
 * [5.Analysis](#analysis)
@@ -294,7 +300,15 @@
 
 [2018 FAST] **Clay Codes: Moulding MDS Codes to Yield an MSR Code**. [[PDF](https://www.usenix.org/system/files/conference/fast18/fast18-vajha.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast18_slides_vajha.pdf)]
 
-## Secure File System
+## Other topics
+
+### Data Reduction
+
+#### Deduplication
+
+[2009 ATC] **Decentralized Deduplication in SAN Cluster File Systems**. [[PDF](https://www.usenix.org/legacy/events/usenix09/tech/full_papers/clements/clements.pdf)] [[Slides](https://www.usenix.org/legacy/events/usenix09/tech/slides/clements.pdf)]
+
+### Security
 
 [1993 CCS] CFS: **A Cryptographic File System for Unix**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/168588.168590)]
 
