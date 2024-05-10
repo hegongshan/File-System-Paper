@@ -37,20 +37,14 @@
     * [2.7 Fault Tolerance](#fault-tolerance)
       
         * [2.7.1 Replication](#replication)
-        
-            * [2.7.1.1 Primary-backup Replication](#primary-backup-replication)
-            
-            * [2.7.1.2 Chain Replication](#chain-replication)
-            
-            * [2.7.1.3 Consensus-based Replication](#consensus-based-replication)
           
-      * [2.7.2 Erasure Coding](#erasure-coding)
+        * [2.7.2 Erasure Coding](#erasure-coding)
 
 * [3.Other Topics](#other-topics)
     
     * [3.1 Data Reduction](#data-reduction)
         
-        * [3.1.1 Deduplication](#deduplication)
+        * [3.1.1 Data Deduplication](#data-deduplication)
         
     * [3.2 Security](#security)
     
@@ -276,15 +270,15 @@
 
 #### Replication
 
-##### Primary-backup Replication
+* Primary-backup Replication
 
 [1976 ICSE] **A principle for resilient sharing of distributed resources**. [[PDF](https://dl.acm.org/doi/pdf/10.5555/800253.807732)]
 
-##### Chain Replication
+* Chain Replication
 
 [2004 OSDI] **Chain Replication for Supporting High Throughput and Availability**. [[PDF](https://www.usenix.org/legacy/events/osdi04/tech/full_papers/renesse/renesse.pdf)]
 
-##### Consensus-based Replication
+* Consensus-based Replication
 
 [1998 TOCS] Paxos: **The Part-Time Parliament**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/279227.279229)]
 
@@ -300,11 +294,11 @@
 
 [2018 FAST] **Clay Codes: Moulding MDS Codes to Yield an MSR Code**. [[PDF](https://www.usenix.org/system/files/conference/fast18/fast18-vajha.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast18_slides_vajha.pdf)]
 
-## Other topics
+## Other Topics
 
 ### Data Reduction
 
-#### Deduplication
+#### Data Deduplication
 
 [2008 FAST] **Avoiding the Disk Bottleneck in the Data Domain Deduplication File System**. [[PDF](https://www.usenix.org/legacy/event/fast08/tech/full_papers/zhu/zhu.pdf)]
 
@@ -357,6 +351,8 @@
 [2008 TOS] **A Nine Year Study of File System and Storage Benchmarking**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1367829.1367831)]
 
 [2011 HotOS] **Benchmarking File System Benchmarking: It *IS* Rocket Science**. [[PDF](https://www.usenix.org/legacy/events/hotos11/tech/final_files/Tarasov.pdf)]
+
+[2011 FAST] **A Study of Practical Deduplication**. [[PDF](https://www.usenix.org/legacy/events/fast11/tech/full_papers/Meyer.pdf)] [[Slides](https://www.usenix.org/legacy/events/fast11/tech/slides/meyer.pdf)]
 
 [2013 FAST] **A Study of Linux File System Evolution**. [[PDF](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf)]
 
