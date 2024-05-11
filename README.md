@@ -354,6 +354,8 @@
 
 [2011 FAST] **A Study of Practical Deduplication**. [[PDF](https://www.usenix.org/legacy/events/fast11/tech/full_papers/Meyer.pdf)] [[Slides](https://www.usenix.org/legacy/events/fast11/tech/slides/meyer.pdf)]
 
+[2012 SC] **A Study on Data Deduplication in HPC Storage Systems**. [[PDF](https://ieeexplore.ieee.org/abstract/document/6468447)]
+
 [2013 FAST] **A Study of Linux File System Evolution**. [[PDF](https://www.usenix.org/system/files/conference/fast13/fast13-final75_0.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/lu_fast13_slides.pdf)]
 
 ## Object Storage
