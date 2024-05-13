@@ -302,6 +302,8 @@
 
 [2008 FAST] **Avoiding the Disk Bottleneck in the Data Domain Deduplication File System**. [[PDF](https://www.usenix.org/legacy/event/fast08/tech/full_papers/zhu/zhu.pdf)]
 
+[2009 FAST] **Sparse Indexing: Large Scale, Inline Deduplication Using Sampling and Locality**. [[PDF](https://www.usenix.org/legacy/event/fast09/tech/full_papers/lillibridge/lillibridge.pdf)] [[Slides](https://www.usenix.org/legacy/event/fast09/tech/slides/lillibridge.pdf)]
+
 [2009 ATC] **Decentralized Deduplication in SAN Cluster File Systems**. [[PDF](https://www.usenix.org/legacy/events/usenix09/tech/full_papers/clements/clements.pdf)] [[Slides](https://www.usenix.org/legacy/events/usenix09/tech/slides/clements.pdf)]
 
 [2011 ATC] **Building a High-performance Deduplication System**. [[PDF](https://www.usenix.org/events/atc11/tech/final_files/GuoEfstathopoulos.pdf)]
