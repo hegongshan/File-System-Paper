@@ -306,6 +306,8 @@
 
 [2009 ATC] **Decentralized Deduplication in SAN Cluster File Systems**. [[PDF](https://www.usenix.org/legacy/events/usenix09/tech/full_papers/clements/clements.pdf)] [[Slides](https://www.usenix.org/legacy/events/usenix09/tech/slides/clements.pdf)]
 
+[2010 FAST] **I/O Deduplication: Utilizing Content Similarity to Improve I/O Performance**. [[PDF](https://www.usenix.org/legacy/events/fast10/tech/full_papers/koller.pdf)] [[Slides](https://www.usenix.org/legacy/events/fast10/tech/slides/koller.pdf)]
+
 [2011 ATC] **Building a High-performance Deduplication System**. [[PDF](https://www.usenix.org/events/atc11/tech/final_files/GuoEfstathopoulos.pdf)]
 
 ### Security
