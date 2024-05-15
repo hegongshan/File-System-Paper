@@ -334,6 +334,8 @@
 
 [2016 ICCCA] **Evolution and Analysis of Distributed File Systems in Cloud Storage: Analytical Survey**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7813828)]
 
+[2016 PIEEE] **A Comprehensive Study of the Past, Present, and Future of Data Deduplication**. [[PDF](https://csyhua.github.io/csyhua/hua-PIEEE.pdf)]
+
 [2018 CSUR] **Scalable Metadata Management Techniques for Ultra-Large Distributed Storage Systems – A Systematic Review**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3212686)]
 
 [2020 JCST] **Ad Hoc File Systems for High-Performance Computing**. [[PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9801-1.pdf)]
