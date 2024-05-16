@@ -300,6 +300,8 @@
 
 #### Data Deduplication
 
+[2001 SOSP] LBFS: **A Low-bandwidth Network File System**. [[PDF](https://www.sosp.org/2001/papers/mazieres.pdf)]
+
 [2008 FAST] **Avoiding the Disk Bottleneck in the Data Domain Deduplication File System**. [[PDF](https://www.usenix.org/legacy/event/fast08/tech/full_papers/zhu/zhu.pdf)]
 
 [2009 FAST] **Sparse Indexing: Large Scale, Inline Deduplication Using Sampling and Locality**. [[PDF](https://www.usenix.org/legacy/event/fast09/tech/full_papers/lillibridge/lillibridge.pdf)] [[Slides](https://www.usenix.org/legacy/event/fast09/tech/slides/lillibridge.pdf)]
