@@ -120,6 +120,8 @@
 
 [2021 ATC] **XFUSE: An Infrastructure for Running Filesystem Services in User Space**. [[PDF](https://www.usenix.org/system/files/atc21-huai.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_huai.pdf)]
 
+[2024 FAST] **RFUSE: Modernizing Userspace Filesystem Framework through Scalable Kernel-Userspace Communication**. [[PDF](https://www.usenix.org/system/files/fast24-cho.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-cho.pdf)]
+
 ### Crash Consistency
 
 #### File System Checker
