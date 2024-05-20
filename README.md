@@ -112,6 +112,8 @@
 
 [2015 HotStorage] **Terra Incognita: On the Practicality of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/hotstorage15/hotstorage15-tarasov.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/hotstorage15_slides_tarasov.pdf)]
 
+[2016 FAST] **The Composite-file File System: Decoupling the One-to-one Mapping of Files and Metadata for Better Performance**. [[PDF](https://www.usenix.org/system/files/conference/fast16/fast16-papers-zhang-shuanglong.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast16_slides_zhang61.pdf)]
+
 [2017 FAST] **To FUSE or Not to FUSE: Performance of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-vangoor.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_vangoor.pdf)]
 
 [2018 ROSS] **Direct-FUSE: Removing the Middleman for High-Performance FUSE File System Support**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3217189.3217195)] [[Codes](https://github.com/LLNL/direct-fuse)]
