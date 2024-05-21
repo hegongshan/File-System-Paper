@@ -30,15 +30,19 @@
     
     * [2.4 Cloud Computing](#cloud-computing)
     
-    * [2.5 Data Distribution](#data-distribution)
+    * [2.5 Artificial Intelligence](#artificial-intelligence)
     
-    * [2.6 Metadata Management](#metadata-management)
+        * [2.5.1 AI for Storage](#ai-for-storage)
+
+    * [2.6 Data Distribution](#data-distribution)
     
-    * [2.7 Fault Tolerance](#fault-tolerance)
+    * [2.7 Metadata Management](#metadata-management)
+    
+    * [2.8 Fault Tolerance](#fault-tolerance)
       
-        * [2.7.1 Replication](#replication)
+        * [2.8.1 Replication](#replication)
           
-        * [2.7.2 Erasure Coding](#erasure-coding)
+        * [2.8.2 Erasure Coding](#erasure-coding)
 
 * [3.Other Topics](#other-topics)
     
@@ -235,6 +239,12 @@
 [2018 VLDB] **PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database**. [[PDF](http://www.vldb.org/pvldb/vol11/p1849-cao.pdf)]
 
 [2019 SIGMOD] **CFS: A Distributed File System for Large Scale Container Platforms**. [[PDF](https://arxiv.org/pdf/1911.03001.pdf)]
+
+### Artificial Intelligence
+
+#### AI for Storage
+
+[2021 FAST] **Learning Cache Replacement with CACHEUS**. [[PDF](https://www.usenix.org/system/files/fast21-rodriguez.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast21_slides_yusuf.pdf)]
 
 ### Data Distribution
 
