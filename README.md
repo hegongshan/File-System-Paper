@@ -246,6 +246,8 @@
 
 [2021 FAST] **Learning Cache Replacement with CACHEUS**. [[PDF](https://www.usenix.org/system/files/fast21-rodriguez.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast21_slides_yusuf.pdf)]
 
+[2023 FAST] **GL-Cache: Group-level learning for efficient and high-performance caching**. [[PDF](https://www.usenix.org/system/files/fast23-yang.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_yang-juncheng.pdf)] [[Codes](https://github.com/Thesys-lab/fast23-glcache)]
+
 ### Data Distribution
 
 [2006 SC] **CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data**. [[PDF](https://ceph.com/assets/pdfs/weil-crush-sc06.pdf)]
