@@ -248,6 +248,8 @@
 
 [2023 FAST] **GL-Cache: Group-level learning for efficient and high-performance caching**. [[PDF](https://www.usenix.org/system/files/fast23-yang.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_yang-juncheng.pdf)] [[Codes](https://github.com/Thesys-lab/fast23-glcache)]
 
+[2024 FAST] **Baleen: ML Admission & Prefetching for Flash Caches**. [[PDF](https://www.usenix.org/system/files/fast24-wong.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-wong.pdf)] [[Codes](https://github.com/wonglkd/Baleen-FAST24)] [[Dataset](https://ftp.pdl.cmu.edu/pub/datasets/Baleen24/)]
+
 ### Data Distribution
 
 [2006 SC] **CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data**. [[PDF](https://ceph.com/assets/pdfs/weil-crush-sc06.pdf)]
