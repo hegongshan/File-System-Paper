@@ -252,6 +252,8 @@
 
 ### Data Distribution
 
+[1997 STOC] **Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/258533.258660)]
+
 [2006 SC] **CRUSH: Controlled, Scalable, Decentralized Placement of Replicated Data**. [[PDF](https://ceph.com/assets/pdfs/weil-crush-sc06.pdf)]
 
 [2020 FAST] **MAPX: Controlled Data Migration in the Expansion of Decentralized Object-Based Storage Systems**. [[PDF](https://www.usenix.org/system/files/fast20-wang_li.pdf)]
