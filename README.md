@@ -44,6 +44,8 @@
           
         * [2.8.2 Erasure Coding](#erasure-coding)
 
+    * [2.9 Hardware Optimization](#hardware-optimization)
+
 * [3.Other Topics](#other-topics)
     
     * [3.1 Data Reduction](#data-reduction)
@@ -317,6 +319,10 @@
 [2015 FAST] **A Tale of Two Erasure Codes in HDFS**. [[PDF](https://www.usenix.org/system/files/conference/fast15/fast15-paper-xia.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast15_xia_slides.pdf)]
 
 [2018 FAST] **Clay Codes: Moulding MDS Codes to Yield an MSR Code**. [[PDF](https://www.usenix.org/system/files/conference/fast18/fast18-vajha.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast18_slides_vajha.pdf)]
+
+### Hardware Optimization
+
+[2021 SOSP] **LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism**. [[PDF](https://mcanini.github.io/papers/linefs.sosp21.pdf)]
 
 ## Other Topics
 
