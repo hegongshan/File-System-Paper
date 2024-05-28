@@ -322,6 +322,8 @@
 
 ### Hardware Optimization
 
+[2020 OSDI] **Assise: Performance and Availability via Client-local NVM in a Distributed File System**. [[PDF](https://www.usenix.org/system/files/osdi20-anderson.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi20_slides_anderson.pdf)]
+
 [2021 SOSP] **LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism**. [[PDF](https://mcanini.github.io/papers/linefs.sosp21.pdf)]
 
 ## Other Topics
