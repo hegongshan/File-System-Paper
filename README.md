@@ -328,6 +328,8 @@
 
 [2021 SOSP] **LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism**. [[PDF](https://mcanini.github.io/papers/linefs.sosp21.pdf)]
 
+[2022 TPDS] **Hydra: A Decentralized File System for Persistent Memory and RDMA Networks**. [[PDF](https://venero.github.io/files/publications/2022-TPDS.pdf)]
+
 ## Other Topics
 
 ### Data Reduction
