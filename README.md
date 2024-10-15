@@ -10,7 +10,9 @@
       
         * [1.3.1 File System Checker](#file-system-checker)
         
-        * [1.3.2 Others](#others)
+        * [1.3.2 Journaling](#journaling)
+
+        * [1.3.3 Others](#others)
     
     * [1.4 Fragmentation](#fragmentation)
     
@@ -147,6 +149,10 @@
 [2018 TOS] **Towards Robust File System Checkers**. [[PDF](https://www.researchgate.net/profile/Vyacheslav-Dubeyko/publication/329404304_Towards_Robust_File_System_Checkers/links/5ef11e2d92851ce9e7fcb189/Towards-Robust-File-System-Checkers.pdf)]
 
 [2021 FAST] **pFSCK: Accelerating File System Checking and Repair for Modern Storage**. [[PDF](https://www.usenix.org/system/files/fast21-domingo.pdf)]
+
+#### Journaling
+
+[2024 ATC] **FastCommit: resource-efficient, performant and cost-effective file system journaling**. [[PDF](https://www.usenix.org/system/files/atc24-shirwadkar.pdf)] [[Slides](https://www.usenix.org/system/files/atc24_slides-shirwadkar.pdf)]
 
 #### Others
 
