@@ -290,6 +290,8 @@
 
 [2022 FAST] **InfiniFS: An Efficient Metadata Service for Large-Scale Distributed Filesystems**. [[PDF](https://www.usenix.org/system/files/fast22-lv.pdf)] [[Slides](https://www.usenix.org/system/files/fast22_slides_lv.pdf)]
 
+[2022 SC] **MetaWBC: POSIX-Compliant Metadata Write-Back Caching for Distributed File Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.5555/3571885.3571959)]
+
 [2023 ATC] **SingularFS: A Billion-Scale Distributed File System Using a Single Metadata Server**. [[PDF](https://www.usenix.org/system/files/atc23-guo.pdf)] [[Slides](https://www.usenix.org/system/files/atc23_slides_guo.pdf)]
 
 * Load Balance
