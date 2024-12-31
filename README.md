@@ -294,6 +294,8 @@
 
 [2023 ATC] **SingularFS: A Billion-Scale Distributed File System Using a Single Metadata Server**. [[PDF](https://www.usenix.org/system/files/atc23-guo.pdf)] [[Slides](https://www.usenix.org/system/files/atc23_slides_guo.pdf)]
 
+[2023 SC] **Xfast: Extreme File Attribute Stat Acceleration for Lustre**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3581784.3607080)]
+
 * Load Balance
 
 [2015 SC] **Mantle: a programmable metadata load balancer for the ceph file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/2807591.2807607)]
