@@ -26,9 +26,9 @@
     
     * [2.3 High Performance Computing](#high-performance-computing-hpc)
     
-        * [2.3.2 Parallel File System](#parallel-file-system)
+        * [2.3.1 Parallel File System](#parallel-file-system)
         
-        * [2.3.1 Burst Buffer File System](#burst-buffer-file-system)
+        * [2.3.2 Burst Buffer File System](#burst-buffer-file-system)
     
     * [2.4 Cloud Computing](#cloud-computing)
     
