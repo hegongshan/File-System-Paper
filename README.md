@@ -36,7 +36,7 @@
     
         * [2.5.1 AI for Storage](#ai-for-storage)
 
-    * [2.6 Data Distribution](#data-distribution)
+    * [2.6 Data Management](#data-management)
     
     * [2.7 Metadata Management](#metadata-management)
     
@@ -258,7 +258,11 @@
 
 [2024 FAST] **Baleen: ML Admission & Prefetching for Flash Caches**. [[PDF](https://www.usenix.org/system/files/fast24-wong.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-wong.pdf)] [[Codes](https://github.com/wonglkd/Baleen-FAST24)] [[Dataset](https://ftp.pdl.cmu.edu/pub/datasets/Baleen24/)]
 
-### Data Distribution
+### Data Management
+
+[2024 FAST] **Combining Buffered I/O and Direct I/O in Distributed File Systems**. [[PDF](https://www.usenix.org/system/files/fast24-qian.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-qian.pdf)] [[Codes](https://github.com/DDN-JGU-collab/AutoIO_FAST24_AD)]
+
+* Data Distribution
 
 [1997 STOC] **Consistent Hashing and Random Trees: Distributed Caching Protocols for Relieving Hot Spots on the World Wide Web**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/258533.258660)]
 
