@@ -122,7 +122,7 @@
 
 [2016 FAST] **The Composite-file File System: Decoupling the One-to-one Mapping of Files and Metadata for Better Performance**. [[PDF](https://www.usenix.org/system/files/conference/fast16/fast16-papers-zhang-shuanglong.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast16_slides_zhang61.pdf)]
 
-[2017 FAST] **To FUSE or Not to FUSE: Performance of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-vangoor.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_vangoor.pdf)]
+[2017 FAST] **To FUSE or Not to FUSE: Performance of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-vangoor.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_vangoor.pdf)] [[Codes](https://www.filesystems.org/fuse/)]
 
 [2018 ROSS] **Direct-FUSE: Removing the Middleman for High-Performance FUSE File System Support**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3217189.3217195)] [[Codes](https://github.com/LLNL/direct-fuse)]
 
@@ -148,7 +148,7 @@
 
 [2018 TOS] **Towards Robust File System Checkers**. [[PDF](https://www.researchgate.net/profile/Vyacheslav-Dubeyko/publication/329404304_Towards_Robust_File_System_Checkers/links/5ef11e2d92851ce9e7fcb189/Towards-Robust-File-System-Checkers.pdf)]
 
-[2021 FAST] **pFSCK: Accelerating File System Checking and Repair for Modern Storage**. [[PDF](https://www.usenix.org/system/files/fast21-domingo.pdf)]
+[2021 FAST] **pFSCK: Accelerating File System Checking and Repair for Modern Storage**. [[PDF](https://www.usenix.org/system/files/fast21-domingo.pdf)] [[Codes](https://github.com/RutgersCSSystems/pFSCK)]
 
 #### Journaling
 
@@ -230,7 +230,7 @@
 
 [2009 SC] **PLFS: A Checkpoint Filesystem for Parallel Applications**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/PDSI/plfs.pdf)] [[Codes](https://github.com/plfs/plfs-core)]
 
-[2016 SC] BurstFS: **An Ephemeral Burst-Buffer File System for Scientific Applications**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877147)]
+[2016 SC] BurstFS: **An Ephemeral Burst-Buffer File System for Scientific Applications**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877147)] [[Codes](https://github.com/LLNL/burstfs)]
 
 [2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Codes](https://storage.bsc.es/gitlab/hpc/gekkofs)]
 
@@ -246,9 +246,9 @@
 
 ### Cloud Computing
 
-[2018 VLDB] **PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database**. [[PDF](http://www.vldb.org/pvldb/vol11/p1849-cao.pdf)]
+[2018 VLDB] **PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database**. [[PDF](http://www.vldb.org/pvldb/vol11/p1849-cao.pdf)] [[Codes](https://github.com/ApsaraDB/PolarDB-FileSystem)]
 
-[2019 SIGMOD] **CFS: A Distributed File System for Large Scale Container Platforms**. [[PDF](https://arxiv.org/pdf/1911.03001.pdf)]
+[2019 SIGMOD] **CFS: A Distributed File System for Large Scale Container Platforms**. [[PDF](https://arxiv.org/pdf/1911.03001.pdf)] [[Codes](https://github.com/cubefs/cubefs)]
 
 ### Artificial Intelligence
 
