@@ -372,6 +372,8 @@
 
 [2000 OSDI] **Fast and secure distributed read-only file system**. [[PDF](https://www.usenix.org/legacy/events/osdi2000/full_papers/fu/fu.pdf)]
 
+[2005 Ottawa Linux Symposium] **eCryptfs: An Enterprise-class Encrypted Filesystem for Linux**. [[PDF](https://www.kernel.org/doc/ols/2005/ols2005v1-pages-209-226.pdf)]
+
 [2008 StorageSS] **Tahoe – The Least-Authority Filesystem**. [[PDF](https://tahoe-lafs.org/~trac/lafs.pdf)] [[Codes](https://github.com/tahoe-lafs/tahoe-lafs)]
 
 ## Surveys
