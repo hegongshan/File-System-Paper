@@ -222,7 +222,7 @@
 
 [2002 FAST] **GPFS: A Shared-Disk File System for Large Computing Clusters**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/fast02/full_papers/schmuck/schmuck.pdf)]
 
-[2003] **Lustre: Building a File System for 1,000-node Clusters**. [[PDF](https://www.kernel.org/doc/ols/2003/ols2003-pages-380-386.pdf)]
+[2003 Ottawa Linux Symposium] **Lustre: Building a File System for 1,000-node Clusters**. [[PDF](https://www.kernel.org/doc/ols/2003/ols2003-pages-380-386.pdf)]
 
 [2008 FAST] **Scalable Performance of the Panasas Parallel File System**. [[PDF](https://www.usenix.org/legacy/events/fast08/tech/full_papers/welch/welch.pdf)]
 
@@ -371,6 +371,8 @@
 [1999 SOSP] SFS: **Separating key management from file system security**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/319151.319160)]
 
 [2000 OSDI] **Fast and secure distributed read-only file system**. [[PDF](https://www.usenix.org/legacy/events/osdi2000/full_papers/fu/fu.pdf)]
+
+[2003 ATC] **NCryptfs: A Secure and Convenient Cryptographic File System**. [[PDF](https://www.usenix.org/legacy/event/usenix03/tech/full_papers/full_papers/wright/wright.pdf)] [[Slides](https://www.filesystems.org/docs/ncryptfs/ncryptfs-usenix03.ppt)]
 
 [2005 Ottawa Linux Symposium] **eCryptfs: An Enterprise-class Encrypted Filesystem for Linux**. [[PDF](https://www.kernel.org/doc/ols/2005/ols2005v1-pages-209-226.pdf)]
 
