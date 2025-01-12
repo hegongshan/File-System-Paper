@@ -128,17 +128,19 @@
 
 [2019 TOS] **Performance and Resource Utilization of FUSE User-Space File Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3310148)]
 
-[2019 ATC] ExtFUSE: **Extension Framework for File Systems in User space**. [[PDF](https://www.usenix.org/system/files/atc19-bijlani.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_bijlani.pdf)]
+[2019 ATC] ExtFUSE: **Extension Framework for File Systems in User space**. [[PDF](https://www.usenix.org/system/files/atc19-bijlani.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_bijlani.pdf)] [[Codes](https://github.com/extfuse/extfuse)]
 
 [2021 ATC] **XFUSE: An Infrastructure for Running Filesystem Services in User Space**. [[PDF](https://www.usenix.org/system/files/atc21-huai.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_huai.pdf)]
 
 [2022 TOS] **DEFUSE: An Interface for Fast and Correct User Space File System Access**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3494556)]
 
-[2024 FAST] **RFUSE: Modernizing Userspace Filesystem Framework through Scalable Kernel-Userspace Communication**. [[PDF](https://www.usenix.org/system/files/fast24-cho.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-cho.pdf)]
+[2024 FAST] **RFUSE: Modernizing Userspace Filesystem Framework through Scalable Kernel-Userspace Communication**. [[PDF](https://www.usenix.org/system/files/fast24-cho.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-cho.pdf)] [[Codes](https://github.com/snu-csl/rfuse)]
 
 ### Crash Consistency
 
 #### File System Checker
+
+> e2fsck, https://github.com/tytso/e2fsprogs
 
 [1983] **Fsck − The UNIX File System Check Program**. [[PDF](https://docs.freebsd.org/44doc/smm/03.fsck/paper.pdf)]
 
@@ -174,7 +176,7 @@
 
 ### Multicore/Manycore Scalability
 
-[2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)]
+[2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)] [[Codes](https://github.com/sslab-gatech/fxmark)]
 
 [2017 SOSP] ScaleFS: **Scaling a File System to Many Cores Using an Operation Log**. [[PDF](https://pdos.csail.mit.edu/papers/scalefs.pdf)]
 
@@ -192,7 +194,7 @@
 
 [2003 MSST] **zFS - A Scalable Distributed File System Using Object Disks**. [[PDF](https://msstconference.org/MSST-history/2003/papers/29-Rodeh-zFS.pdf)] [[Slides](https://msstconference.org/MSST-history/2003/presentations/D02-Teperman.pdf)]
 
-[2006 OSDI] **Ceph: A Scalable, High-Performance Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/weil/weil.pdf)]
+[2006 OSDI] **Ceph: A Scalable, High-Performance Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/weil/weil.pdf)] [[Codes](https://github.com/ceph/ceph)]
 
 [2007 SC] **RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters**. [[PDF](https://ceph.com/assets/pdfs/weil-rados-pdsw07.pdf)]
 
@@ -206,7 +208,7 @@
 
 [2003 SOSP] GFS: **The Google File System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/945445.945450)]
 
-[2010 MSST] HDFS: **The Hadoop Distributed File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Shvachko.pdf)] [[Slides](https://msstconference.org/MSST-history/2010/Presentations/Research/9.Shvachko.pdf)]
+[2010 MSST] HDFS: **The Hadoop Distributed File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Shvachko.pdf)] [[Slides](https://msstconference.org/MSST-history/2010/Presentations/Research/9.Shvachko.pdf)] [[Codes](https://github.com/apache/hadoop)]
 
 [2013 VLDB] QFS: **The Quantcast File System**. [[PDF](https://vldb.org/pvldb/vol6/p1092-ovsiannikov.pdf)] [[Codes](https://github.com/quantcast/qfs)]
 
@@ -222,7 +224,7 @@
 
 [2002 FAST] **GPFS: A Shared-Disk File System for Large Computing Clusters**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/fast02/full_papers/schmuck/schmuck.pdf)]
 
-[2003 Ottawa Linux Symposium] **Lustre: Building a File System for 1,000-node Clusters**. [[PDF](https://www.kernel.org/doc/ols/2003/ols2003-pages-380-386.pdf)]
+[2003 Ottawa Linux Symposium] **Lustre: Building a File System for 1,000-node Clusters**. [[PDF](https://www.kernel.org/doc/ols/2003/ols2003-pages-380-386.pdf)] [[Codes](https://git.whamcloud.com/fs/lustre-release.git)]
 
 [2008 FAST] **Scalable Performance of the Panasas Parallel File System**. [[PDF](https://www.usenix.org/legacy/events/fast08/tech/full_papers/welch/welch.pdf)]
 
@@ -368,6 +370,8 @@
 
 [1993 CCS] CFS: **A Cryptographic File System for Unix**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/168588.168590)]
 
+[1998 Technical Report] **Cryptfs: A Stackable Vnode Level Encryption File System**. [[PDF](https://www.filesystems.org/docs/cryptfs/cryptfs.pdf)] 
+
 [1999 SOSP] SFS: **Separating key management from file system security**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/319151.319160)]
 
 [2000 OSDI] **Fast and secure distributed read-only file system**. [[PDF](https://www.usenix.org/legacy/events/osdi2000/full_papers/fu/fu.pdf)]
@@ -432,7 +436,7 @@
 
 [2010 OSDI] **Finding a needle in Haystack: Facebook’s photo storage**. [[PDF](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)] [[Slides](https://www.usenix.org/legacy/events/osdi10/tech/slides/beaver.pdf)]
 
-[2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)]
+[2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)] [[Codes](https://github.com/daos-stack/daos)]
 
 ## New Hardware
 
