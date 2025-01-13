@@ -376,6 +376,8 @@
 
 [2000 OSDI] **Fast and secure distributed read-only file system**. [[PDF](https://www.usenix.org/legacy/events/osdi2000/full_papers/fu/fu.pdf)]
 
+[2003 ICDE] **StegFS: A Steganographic File System**. [[PDF](https://dubeyko.com/development/FileSystems/StegFS/StegFS.pdf)]
+
 [2003 ATC] **NCryptfs: A Secure and Convenient Cryptographic File System**. [[PDF](https://www.usenix.org/legacy/event/usenix03/tech/full_papers/full_papers/wright/wright.pdf)] [[Slides](https://www.filesystems.org/docs/ncryptfs/ncryptfs-usenix03.ppt)]
 
 [2005 Ottawa Linux Symposium] **eCryptfs: An Enterprise-class Encrypted Filesystem for Linux**. [[PDF](https://www.kernel.org/doc/ols/2005/ols2005v1-pages-209-226.pdf)]
