@@ -1,67 +1,36 @@
 # File System
 
 * [1.Local File System](#local-file-system)
-
     * [1.1 Kernel File System](#kernel-file-system)
-
     * [1.2 User-Space File System](#user-space-file-system)
-
     * [1.3 Crash Consistency](#crash-consistency)
-
         * [1.3.1 File System Checker](#file-system-checker)
-
         * [1.3.2 Journaling](#journaling)
-
         * [1.3.3 Others](#others)
-
     * [1.4 Fragmentation](#fragmentation)
-
     * [1.5 Multicore/Manycore Scalability](#multicoremanycore-scalability)
-
 * [2.Distributed File System](#distributed-file-system)
-
     * [2.1 General Purpose File System](#general-purpose-file-system)
-
     * [2.2 Big Data](#big-data)
-
-    * [2.3 High Performance Computing](#high-performance-computing-hpc)
-
+    * [2.3 High Performance Computing (HPC)](#high-performance-computing-hpc)
         * [2.3.1 Parallel File System](#parallel-file-system)
-
         * [2.3.2 Burst Buffer File System](#burst-buffer-file-system)
-
     * [2.4 Cloud Computing](#cloud-computing)
-
-    * [2.5 Artificial Intelligence](#artificial-intelligence)
-
-        * [2.5.1 AI for Storage](#ai-for-storage)
-
+    * [2.5 Artificial Intelligence (AI)](#artificial-intelligence-ai)
+        * [2.5.1 AI for File System](#ai-for-file-system)
+        * [2.5.2 File System for AI](#file-system-for-ai)
     * [2.6 Data Management](#data-management)
-
     * [2.7 Metadata Management](#metadata-management)
-
     * [2.8 Fault Tolerance](#fault-tolerance)
-
         * [2.8.1 Replication](#replication)
-
         * [2.8.2 Erasure Coding](#erasure-coding)
-
     * [2.9 Hardware Optimization](#hardware-optimization)
-
 * [3.Other Topics](#other-topics)
-
-    * [3.1 Data Reduction](#data-reduction)
-
-        * [3.1.1 Data Deduplication](#data-deduplication)
-
+    * [3.1 Data Deduplication](#data-deduplication)
     * [3.2 Security](#security)
-
 * [4.Surveys](#surveys)
-
 * [5.Analysis](#analysis)
-
 * [6.Object Storage](#object-storage)
-
 * [7.New Hardware](#new-hardware)
 
 ## Local File System
@@ -112,7 +81,7 @@
 
 [2010 SAC] **Performance and Extension of User Space File Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1774088.1774130)]
 
-[2010 MSST] LTFS: **The Linear Tape File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Pease.pdf)] [[Codes](https://github.com/LinearTapeFileSystem/ltfs)]
+[2010 MSST] LTFS: **The Linear Tape File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Pease.pdf)] [[Code](https://github.com/LinearTapeFileSystem/ltfs)]
 
 [2011 EuroSys] **Refuse to crash with Re-FUSE**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1966445.1966453)]
 
@@ -122,19 +91,19 @@
 
 [2016 FAST] **The Composite-file File System: Decoupling the One-to-one Mapping of Files and Metadata for Better Performance**. [[PDF](https://www.usenix.org/system/files/conference/fast16/fast16-papers-zhang-shuanglong.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast16_slides_zhang61.pdf)]
 
-[2017 FAST] **To FUSE or Not to FUSE: Performance of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-vangoor.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_vangoor.pdf)] [[Codes](https://www.filesystems.org/fuse/)]
+[2017 FAST] **To FUSE or Not to FUSE: Performance of User-Space File Systems**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-vangoor.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_vangoor.pdf)] [[Code](https://www.filesystems.org/fuse/)]
 
-[2018 ROSS] **Direct-FUSE: Removing the Middleman for High-Performance FUSE File System Support**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3217189.3217195)] [[Codes](https://github.com/LLNL/direct-fuse)]
+[2018 ROSS] **Direct-FUSE: Removing the Middleman for High-Performance FUSE File System Support**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3217189.3217195)] [[Code](https://github.com/LLNL/direct-fuse)]
 
 [2019 TOS] **Performance and Resource Utilization of FUSE User-Space File Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3310148)]
 
-[2019 ATC] ExtFUSE: **Extension Framework for File Systems in User space**. [[PDF](https://www.usenix.org/system/files/atc19-bijlani.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_bijlani.pdf)] [[Codes](https://github.com/extfuse/extfuse)]
+[2019 ATC] ExtFUSE: **Extension Framework for File Systems in User space**. [[PDF](https://www.usenix.org/system/files/atc19-bijlani.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_bijlani.pdf)] [[Code](https://github.com/extfuse/extfuse)]
 
 [2021 ATC] **XFUSE: An Infrastructure for Running Filesystem Services in User Space**. [[PDF](https://www.usenix.org/system/files/atc21-huai.pdf)] [[Slides](https://www.usenix.org/system/files/atc21_slides_huai.pdf)]
 
 [2022 TOS] **DEFUSE: An Interface for Fast and Correct User Space File System Access**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3494556)]
 
-[2024 FAST] **RFUSE: Modernizing Userspace Filesystem Framework through Scalable Kernel-Userspace Communication**. [[PDF](https://www.usenix.org/system/files/fast24-cho.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-cho.pdf)] [[Codes](https://github.com/snu-csl/rfuse)]
+[2024 FAST] **RFUSE: Modernizing Userspace Filesystem Framework through Scalable Kernel-Userspace Communication**. [[PDF](https://www.usenix.org/system/files/fast24-cho.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-cho.pdf)] [[Code](https://github.com/snu-csl/rfuse)]
 
 ### Crash Consistency
 
@@ -150,7 +119,7 @@
 
 [2018 TOS] **Towards Robust File System Checkers**. [[PDF](https://www.researchgate.net/profile/Vyacheslav-Dubeyko/publication/329404304_Towards_Robust_File_System_Checkers/links/5ef11e2d92851ce9e7fcb189/Towards-Robust-File-System-Checkers.pdf)]
 
-[2021 FAST] **pFSCK: Accelerating File System Checking and Repair for Modern Storage**. [[PDF](https://www.usenix.org/system/files/fast21-domingo.pdf)] [[Codes](https://github.com/RutgersCSSystems/pFSCK)]
+[2021 FAST] **pFSCK: Accelerating File System Checking and Repair for Modern Storage**. [[PDF](https://www.usenix.org/system/files/fast21-domingo.pdf)] [[Code](https://github.com/RutgersCSSystems/pFSCK)]
 
 #### Journaling
 
@@ -158,9 +127,9 @@
 
 #### Others
 
-[2012 FAST] **Consistency Without Ordering**. [[PDF](https://www.usenix.org/legacy/event/fast/tech/full_papers/Chidambaram.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/nofs-fast12-slides.pdf)] [[Codes](https://github.com/utsaslab/nofs)]
+[2012 FAST] **Consistency Without Ordering**. [[PDF](https://www.usenix.org/legacy/event/fast/tech/full_papers/Chidambaram.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/nofs-fast12-slides.pdf)] [[Code](https://github.com/utsaslab/nofs)]
 
-[2013 SOSP] **Optimistic Crash Consistency**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13-slides.pdf)] [[Codes](https://github.com/utsaslab/optfs)]
+[2013 SOSP] **Optimistic Crash Consistency**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13.pdf)] [[Slides](https://research.cs.wisc.edu/adsl/Publications/optfs-sosp13-slides.pdf)] [[Code](https://github.com/utsaslab/optfs)]
 
 [2017 TOS] **Application Crash Consistency and Performance with CCFS**. [[PDF](https://research.cs.wisc.edu/adsl/Publications/ccfs-tos17.pdf)]
 
@@ -176,7 +145,7 @@
 
 ### Multicore/Manycore Scalability
 
-[2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)] [[Codes](https://github.com/sslab-gatech/fxmark)]
+[2016 ATC] **Understanding Manycore Scalability of File Systems**. [[PDF](https://www.usenix.org/system/files/conference/atc16/atc16_paper-min.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_min.pdf)] [[Code](https://github.com/sslab-gatech/fxmark)]
 
 [2017 SOSP] ScaleFS: **Scaling a File System to Many Cores Using an Operation Log**. [[PDF](https://pdos.csail.mit.edu/papers/scalefs.pdf)]
 
@@ -194,7 +163,7 @@
 
 [2003 MSST] **zFS - A Scalable Distributed File System Using Object Disks**. [[PDF](https://msstconference.org/MSST-history/2003/papers/29-Rodeh-zFS.pdf)] [[Slides](https://msstconference.org/MSST-history/2003/presentations/D02-Teperman.pdf)]
 
-[2006 OSDI] **Ceph: A Scalable, High-Performance Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/weil/weil.pdf)] [[Codes](https://github.com/ceph/ceph)]
+[2006 OSDI] **Ceph: A Scalable, High-Performance Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/weil/weil.pdf)] [[Code](https://github.com/ceph/ceph)]
 
 [2007 SC] **RADOS: A Scalable, Reliable Storage Service for Petabyte-scale Storage Clusters**. [[PDF](https://ceph.com/assets/pdfs/weil-rados-pdsw07.pdf)]
 
@@ -208,9 +177,9 @@
 
 [2003 SOSP] GFS: **The Google File System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/945445.945450)]
 
-[2010 MSST] HDFS: **The Hadoop Distributed File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Shvachko.pdf)] [[Slides](https://msstconference.org/MSST-history/2010/Presentations/Research/9.Shvachko.pdf)] [[Codes](https://github.com/apache/hadoop)]
+[2010 MSST] HDFS: **The Hadoop Distributed File System**. [[PDF](https://msstconference.org/MSST-history/2010/Papers/MSST/Shvachko.pdf)] [[Slides](https://msstconference.org/MSST-history/2010/Presentations/Research/9.Shvachko.pdf)] [[Code](https://github.com/apache/hadoop)]
 
-[2013 VLDB] QFS: **The Quantcast File System**. [[PDF](https://vldb.org/pvldb/vol6/p1092-ovsiannikov.pdf)] [[Codes](https://github.com/quantcast/qfs)]
+[2013 VLDB] QFS: **The Quantcast File System**. [[PDF](https://vldb.org/pvldb/vol6/p1092-ovsiannikov.pdf)] [[Code](https://github.com/quantcast/qfs)]
 
 [2021 FAST] **Facebook’s Tectonic Filesystem: Efficiency from Exascale**. [[PDF](https://www.usenix.org/system/files/fast21-pan.pdf)]
 
@@ -224,47 +193,57 @@
 
 [2002 FAST] **GPFS: A Shared-Disk File System for Large Computing Clusters**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/fast02/full_papers/schmuck/schmuck.pdf)]
 
-[2003 Ottawa Linux Symposium] **Lustre: Building a File System for 1,000-node Clusters**. [[PDF](https://www.kernel.org/doc/ols/2003/ols2003-pages-380-386.pdf)] [[Codes](https://git.whamcloud.com/fs/lustre-release.git)]
+[2003 Ottawa Linux Symposium] **Lustre: Building a File System for 1,000-node Clusters**. [[PDF](https://www.kernel.org/doc/ols/2003/ols2003-pages-380-386.pdf)] [[Code](https://git.whamcloud.com/fs/lustre-release.git)]
 
 [2008 FAST] **Scalable Performance of the Panasas Parallel File System**. [[PDF](https://www.usenix.org/legacy/events/fast08/tech/full_papers/welch/welch.pdf)]
 
 #### Burst Buffer File System
 
-[2009 SC] **PLFS: A Checkpoint Filesystem for Parallel Applications**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/PDSI/plfs.pdf)] [[Codes](https://github.com/plfs/plfs-core)]
+[2009 SC] **PLFS: A Checkpoint Filesystem for Parallel Applications**. [[PDF](https://www.pdl.cmu.edu/PDL-FTP/PDSI/plfs.pdf)] [[Code](https://github.com/plfs/plfs-core)]
 
-[2016 SC] BurstFS: **An Ephemeral Burst-Buffer File System for Scientific Applications**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877147)] [[Codes](https://github.com/LLNL/burstfs)]
+[2016 SC] BurstFS: **An Ephemeral Burst-Buffer File System for Scientific Applications**. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877147)] [[Code](https://github.com/LLNL/burstfs)]
 
-[2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Codes](https://storage.bsc.es/gitlab/hpc/gekkofs)]
+[2018 CLUSTER & 2020 JCST] **GekkoFS – A temporary distributed file system for HPC applications**. [[CLUSTER PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8514892)] [[JCST PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9797-6.pdf)] [[Code](https://storage.bsc.es/gitlab/hpc/gekkofs)]
 
-[2020 JCST] **Gfarm/BB — Gfarm File System for Node-Local Burst Buffer**. [[PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9803-z.pdf)] [[Codes](https://github.com/oss-tsukuba/gfarm)]
+[2020 JCST] **Gfarm/BB — Gfarm File System for Node-Local Burst Buffer**. [[PDF](https://link.springer.com/content/pdf/10.1007/s11390-020-9803-z.pdf)] [[Code](https://github.com/oss-tsukuba/gfarm)]
 
-[2022 HPCAsia] **CHFS: Parallel Consistent Hashing File System for Node-local Persistent Memory**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3492805.3492807)] [[Codes](https://github.com/otatebe/chfs)]
+[2022 HPCAsia] **CHFS: Parallel Consistent Hashing File System for Node-local Persistent Memory**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3492805.3492807)] [[Code](https://github.com/otatebe/chfs)]
 
 [2023 FAST] **HadaFS: A File System Bridging the Local and Shared Burst Buffer for Exascale Supercomputers**. [[PDF](https://www.usenix.org/system/files/fast23-he.pdf)] [[Video](https://www.youtube.com/watch?v=l-pwBIewqno)]
 
-[2023 IPDPS] **UnifyFS: A User-level Shared File System for Unified Access to Distributed Local Storage**. [[PDF](https://www.osti.gov/servlets/purl/1995690)] [[Codes](https://github.com/LLNL/UnifyFS)] [[Relevant Slides](https://hpckp.org/wp-content/uploads/2022/10/09-UnifyFS-HPCKP20.pdf)]
+[2023 IPDPS] **UnifyFS: A User-level Shared File System for Unified Access to Distributed Local Storage**. [[PDF](https://www.osti.gov/servlets/purl/1995690)] [[Code](https://github.com/LLNL/UnifyFS)] [[Relevant Slides](https://hpckp.org/wp-content/uploads/2022/10/09-UnifyFS-HPCKP20.pdf)]
 
-[2024 CLUSTER] **FINCHFS: Design of Ad-Hoc File System for I/O Heavy HPC Workloads**. [[PDF](https://doi.org/10.1109/CLUSTER59578.2024.00045)] [[Codes](https://github.com/tsukuba-hpcs/finchfs)]
+[2024 CLUSTER] **FINCHFS: Design of Ad-Hoc File System for I/O Heavy HPC Workloads**. [[PDF](https://doi.org/10.1109/CLUSTER59578.2024.00045)] [[Code](https://github.com/tsukuba-hpcs/finchfs)]
 
 ### Cloud Computing
 
-[2018 VLDB] **PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database**. [[PDF](http://www.vldb.org/pvldb/vol11/p1849-cao.pdf)] [[Codes](https://github.com/ApsaraDB/PolarDB-FileSystem)]
+[2018 VLDB] **PolarFS: An Ultra-low Latency and Failure Resilient Distributed File System for Shared Storage Cloud Database**. [[PDF](http://www.vldb.org/pvldb/vol11/p1849-cao.pdf)] [[Code](https://github.com/ApsaraDB/PolarDB-FileSystem)]
 
-[2019 SIGMOD] **CFS: A Distributed File System for Large Scale Container Platforms**. [[PDF](https://arxiv.org/pdf/1911.03001.pdf)] [[Codes](https://github.com/cubefs/cubefs)]
+[2019 SIGMOD] **CFS: A Distributed File System for Large Scale Container Platforms**. [[PDF](https://arxiv.org/pdf/1911.03001.pdf)] [[Code](https://github.com/cubefs/cubefs)]
 
-### Artificial Intelligence
+### Artificial Intelligence (AI)
 
-#### AI for Storage
+#### AI for File System
 
 [2021 FAST] **Learning Cache Replacement with CACHEUS**. [[PDF](https://www.usenix.org/system/files/fast21-rodriguez.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast21_slides_yusuf.pdf)]
 
-[2023 FAST] **GL-Cache: Group-level learning for efficient and high-performance caching**. [[PDF](https://www.usenix.org/system/files/fast23-yang.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_yang-juncheng.pdf)] [[Codes](https://github.com/Thesys-lab/fast23-glcache)]
+[2023 FAST] **GL-Cache: Group-level learning for efficient and high-performance caching**. [[PDF](https://www.usenix.org/system/files/fast23-yang.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast23_slides_yang-juncheng.pdf)] [[Code](https://github.com/Thesys-lab/fast23-glcache)]
 
-[2024 FAST] **Baleen: ML Admission & Prefetching for Flash Caches**. [[PDF](https://www.usenix.org/system/files/fast24-wong.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-wong.pdf)] [[Codes](https://github.com/wonglkd/Baleen-FAST24)] [[Dataset](https://ftp.pdl.cmu.edu/pub/datasets/Baleen24/)]
+[2024 FAST] **Baleen: ML Admission & Prefetching for Flash Caches**. [[PDF](https://www.usenix.org/system/files/fast24-wong.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-wong.pdf)] [[Code](https://github.com/wonglkd/Baleen-FAST24)] [[Dataset](https://ftp.pdl.cmu.edu/pub/datasets/Baleen24/)]
+
+#### File System for AI
+
+> Full List of Papers on Storage for AI, https://github.com/hegongshan/Storage-for-AI-Paper
+
+[2019 CLUSTER] **Efficient User-Level Storage Disaggregation for Deep Learning**. [[PDF](https://par.nsf.gov/servlets/purl/10156300)]
+
+[2020 ICPP] **DIESEL: A Dataset-Based Distributed Storage and Caching System for Large-Scale Deep Learning Training**. [[PDF](https://dl.acm.org/doi/abs/10.1145/3404397.3404472)] [[Slides](https://jnamaral.github.io/icpp20/slides/Wang_DIESEL.pdf)]
+
+[2023 ATC] **Tectonic-Shift: A Composite Storage Fabric for Large-Scale ML Training**. [[PDF](https://www.usenix.org/system/files/atc23-zhao.pdf)] [[Slides](https://www.usenix.org/system/files/atc23_slides_zhao.pdf)]
 
 ### Data Management
 
-[2024 FAST] **Combining Buffered I/O and Direct I/O in Distributed File Systems**. [[PDF](https://www.usenix.org/system/files/fast24-qian.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-qian.pdf)] [[Codes](https://github.com/DDN-JGU-collab/AutoIO_FAST24_AD)]
+[2024 FAST] **Combining Buffered I/O and Direct I/O in Distributed File Systems**. [[PDF](https://www.usenix.org/system/files/fast24-qian.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-qian.pdf)] [[Code](https://github.com/DDN-JGU-collab/AutoIO_FAST24_AD)]
 
 * Data Distribution
 
@@ -350,9 +329,7 @@
 
 ## Other Topics
 
-### Data Reduction
-
-#### Data Deduplication
+### Data Deduplication
 
 [2001 SOSP] LBFS: **A Low-bandwidth Network File System**. [[PDF](https://www.sosp.org/2001/papers/mazieres.pdf)]
 
@@ -382,7 +359,7 @@
 
 [2005 Ottawa Linux Symposium] **eCryptfs: An Enterprise-class Encrypted Filesystem for Linux**. [[PDF](https://www.kernel.org/doc/ols/2005/ols2005v1-pages-209-226.pdf)]
 
-[2008 StorageSS] **Tahoe – The Least-Authority Filesystem**. [[PDF](https://tahoe-lafs.org/~trac/lafs.pdf)] [[Codes](https://github.com/tahoe-lafs/tahoe-lafs)]
+[2008 StorageSS] **Tahoe – The Least-Authority Filesystem**. [[PDF](https://tahoe-lafs.org/~trac/lafs.pdf)] [[Code](https://github.com/tahoe-lafs/tahoe-lafs)]
 
 ## Surveys
 
@@ -438,7 +415,7 @@
 
 [2010 OSDI] **Finding a needle in Haystack: Facebook’s photo storage**. [[PDF](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf)] [[Slides](https://www.usenix.org/legacy/events/osdi10/tech/slides/beaver.pdf)]
 
-[2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)] [[Codes](https://github.com/daos-stack/daos)]
+[2020 SCFA] **DAOS: A Scale-Out High Performance Storage Stack for Storage Class Memory**. [[PDF](https://www.researchgate.net/publication/341844608_DAOS_A_Scale-Out_High_Performance_Storage_Stack_for_Storage_Class_Memory)] [[Code](https://github.com/daos-stack/daos)]
 
 ## New Hardware
 
