@@ -391,6 +391,9 @@
 
 [2024 JCRD] **From BERT to ChatGPT: Challenges and Technical Development of Storage Systems for Large Model Training**. [[PDF](http://dx.doi.org/10.7544/issn1000-1239.202330554)]
 
+[2025 TOS] **A Survey of the Past, Present, and Future of Erasure Coding
+for Storage Systems**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3708994)]
+
 ## Analysis
 
 [2000 ATC] **A Comparison of File System Workloads**. [[PDF](https://www.usenix.org/legacy/publications/library/proceedings/usenix2000/general/full_papers/roselli/roselli.pdf)]
