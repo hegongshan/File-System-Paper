@@ -161,6 +161,8 @@
 
 [1990 TC] **Coda: A Highly Available File System for a Distributed Workstation Environment**. [[PDF](https://www.cs.cmu.edu/~15-749/READINGS/required/availability/satya90.pdf)]
 
+[1992 TOCS] **Disconnected Operation in the Coda File System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/146941.146942)]
+
 [1993 SOSP & 1995 TOCS] **The Zebra Striped Network File System**. [[PDF](http://people.eecs.berkeley.edu/~prabal/resources/osprelim/HO93.pdf)] [[Ph.D. Thesis](https://www.researchgate.net/profile/John-Ousterhout/publication/220439180_The_Zebra_Striped_Network/links/53e296890cf275a5fdda2eca/The-Zebra-Striped-Network.pdf)]
 
 [2003 MSST] **zFS - A Scalable Distributed File System Using Object Disks**. [[PDF](https://msstconference.org/MSST-history/2003/papers/29-Rodeh-zFS.pdf)] [[Slides](https://msstconference.org/MSST-history/2003/presentations/D02-Teperman.pdf)]
