@@ -167,6 +167,8 @@
 
 [1996 MSST] GFS: **The Global File System**. [[PDF](https://msstconference.org/MSST-history/1996/papers/b1_2.pdf)]
 
+[1997 SOSP] **Frangipani: A Scalable Distributed File System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/268998.266694)]
+
 [2003 MSST] **zFS - A Scalable Distributed File System Using Object Disks**. [[PDF](https://msstconference.org/MSST-history/2003/papers/29-Rodeh-zFS.pdf)] [[Slides](https://msstconference.org/MSST-history/2003/presentations/D02-Teperman.pdf)]
 
 [2006 OSDI] **Ceph: A Scalable, High-Performance Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/osdi06/tech/full_papers/weil/weil.pdf)] [[Code](https://github.com/ceph/ceph)]
