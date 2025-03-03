@@ -239,6 +239,8 @@
 
 [2024 FAST] **Baleen: ML Admission & Prefetching for Flash Caches**. [[PDF](https://www.usenix.org/system/files/fast24-wong.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-wong.pdf)] [[Code](https://github.com/wonglkd/Baleen-FAST24)] [[Dataset](https://ftp.pdl.cmu.edu/pub/datasets/Baleen24/)]
 
+[2025 ICLR] LSFS: **From Commands to Prompts: LLM-based Semantic File System for AIOS**. [[PDF](https://openreview.net/pdf?id=2G021ZqUEZ)] [[Code](https://github.com/agiresearch/AIOS-LSFS)]
+
 #### File System for AI
 
 > Full List of Papers on Storage for AI, https://github.com/hegongshan/Storage-for-AI-Paper
