@@ -165,6 +165,8 @@
 
 [1993 SOSP & 1995 TOCS] **The Zebra Striped Network File System**. [[PDF](http://people.eecs.berkeley.edu/~prabal/resources/osprelim/HO93.pdf)] [[Ph.D. Thesis](https://www.researchgate.net/profile/John-Ousterhout/publication/220439180_The_Zebra_Striped_Network/links/53e296890cf275a5fdda2eca/The-Zebra-Striped-Network.pdf)]
 
+[1995 SOSP & 1996 TOCS] xFS: **Serverless Network File Systems**. [[SOSP PDF](https://dl.acm.org/doi/pdf/10.1145/224056.224066)] [[TOCS PDF](https://dl.acm.org/doi/pdf/10.1145/225535.225537)]
+
 [1996 MSST] GFS: **The Global File System**. [[PDF](https://msstconference.org/MSST-history/1996/papers/b1_2.pdf)]
 
 [1997 SOSP] **Frangipani: A Scalable Distributed File System**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/268998.266694)]
