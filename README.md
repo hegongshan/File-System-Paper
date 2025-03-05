@@ -155,7 +155,7 @@
 
 ### General Purpose File System
 
-[1985] **Design and Implementation of the Sun Network Filesystem**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=06C4017AA8BFD7230B528C0F94A21B1D?doi=10.1.1.14.473&rep=rep1&type=pdf)]
+[1985] NFS: **Design and Implementation of the Sun Network Filesystem**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=06C4017AA8BFD7230B528C0F94A21B1D?doi=10.1.1.14.473&rep=rep1&type=pdf)]
 
 [1987 SOSP & 1988 TOCS] AFS: **Scale and performance in a distributed file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/35037.35059)]
 
@@ -180,6 +180,8 @@
 [2007 Ph.D. Thesis@UCSC] **Ceph: Reliable, Scalable, and High-Performance Distributed Storage**. [[PDF](https://ceph.com/assets/pdfs/weil-thesis.pdf)]
 
 [2011 ATC] **TidyFS: A Simple and Small Distributed File System**. [[PDF](https://www.usenix.org/legacy/events/atc11/tech/final_files/Fetterly.pdf)] [[Slides](https://www.usenix.org/legacy/events/atc11/tech/slides/fetterly.pdf)]
+
+[2017 FAST] **vNFS: Maximizing NFS Performance with Compounds and Vectorized I/O**. [[PDF](https://www.usenix.org/system/files/conference/fast17/fast17-chen.pdf)] [[Slides](https://www.usenix.org/sites/default/files/conference/protected-files/fast17_slides_ming_chen.pdf)] [[Code](https://github.com/sbu-fsl/txn-compound)]
 
 [2019 SOSP] **File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)] [[Slides](https://sosp19.rcs.uwaterloo.ca/slides/aghayev.odp)]
 
