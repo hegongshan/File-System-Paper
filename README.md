@@ -61,6 +61,8 @@
 
 [2003 FAST] ZFS: **The Zettabyte File System**. [[PDF](https://courses.cs.washington.edu/courses/cse451/22sp/lectures/zfs_overview.pdf)]
 
+[2004 FAST] **Tracefs: A File System to Trace Them All**. [[PDF](https://www.usenix.org/legacy/events/fast04/tech/full_papers/aranya/aranya.pdf)]
+
 [2006 SIGOPS Operating Systems Review] NILFS: **The Linux implementation of a log-structured file system**. [[PDF](https://dl.acm.org/doi/pdf/10.1145/1151374.1151375)]
 
 [2007] **The new ext4 filesystem: Current status and future plans**. [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.111.798&rep=rep1&type=pdf#page=21)]
