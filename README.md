@@ -57,6 +57,8 @@
 
 [1998 LinuxExpo] ext3: **Journaling the Linux ext2fs Filesystem**. [[PDF](https://pdos.csail.mit.edu/6.828/2020/readings/journal-design.pdf)]
 
+[1998] BeFS: **Practical File System Design with the Be File System**. [[PDF](https://www.nobius.org/dbg/practical-file-system-design.pdf)]
+
 [2001 Ottawa linux symposium] **JFFS: The Journalling Flash File System**. [[PDF](https://www.kernel.org/doc/mirror/ols2001/jffs2.pdf)]
 
 [2003 FAST] ZFS: **The Zettabyte File System**. [[PDF](https://courses.cs.washington.edu/courses/cse451/22sp/lectures/zfs_overview.pdf)]
