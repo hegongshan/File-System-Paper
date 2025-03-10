@@ -197,6 +197,8 @@
 
 [2013 VLDB] QFS: **The Quantcast File System**. [[PDF](https://vldb.org/pvldb/vol6/p1092-ovsiannikov.pdf)] [[Code](https://github.com/quantcast/qfs)]
 
+[2014 SoCC] **Tachyon: Reliable, Memory Speed Storage for Cluster Computing Frameworks**. [[PDF](https://haoyuanli.com/papers/2014_SOCC_tachyon.pdf)] [[Code](https://github.com/Alluxio/alluxio)]
+
 [2021 FAST] **Facebook’s Tectonic Filesystem: Efficiency from Exascale**. [[PDF](https://www.usenix.org/system/files/fast21-pan.pdf)]
 
 [2023 FAST] **More Than Capacity: Performance-Oriented Evolution of Pangu in Alibaba**. [[PDF](https://www.usenix.org/system/files/fast23-li-qiang_more.pdf)] [[Video](https://www.youtube.com/watch?v=Twss7x3Ib2Q)]
