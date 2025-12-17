@@ -263,6 +263,8 @@
 
 [2024 SC] 3FS: **Fire-Flyer AI-HPC: A Cost-Effective Software-Hardware Co-Design for Deep Learning**. [[PDF](https://arxiv.org/pdf/2408.14158)] [[Code](https://github.com/deepseek-ai/3FS)]
 
+[2026 NSDI] **FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**. [[PDF](https://arxiv.org/pdf/2507.10367)] [[Code](https://github.com/falcon-infra/falconfs)]
+
 ### Data Management
 
 [2024 FAST] **Combining Buffered I/O and Direct I/O in Distributed File Systems**. [[PDF](https://www.usenix.org/system/files/fast24-qian.pdf)] [[Slides](https://www.usenix.org/system/files/fast24_slides-qian.pdf)] [[Code](https://github.com/DDN-JGU-collab/AutoIO_FAST24_AD)]
